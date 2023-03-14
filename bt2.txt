@@ -1,0 +1,9000 @@
+#Rect
+12 14
+52 -44
+#Circle
+3
+57 94
+#Triangle
+4 8 5
+-13 34
+#Rect
+1 5
+-96 21
+#Circle
+1
+75 -36
+#Triangle
+2 8 9
+-46 -94
+#Rect
+1 14
+95 55
+#Circle
+2
+-94 -24
+#Triangle
+8 8 12
+69 39
+#Rect
+6 14
+57 -85
+#Circle
+7
+14 69
+#Triangle
+4 9 12
+36 -76
+#Rect
+0 4
+-61 64
+#Circle
+2
+66 -59
+#Triangle
+2 19 18
+61 93
+#Rect
+4 20
+-3 -79
+#Circle
+4
+43 40
+#Triangle
+18 14 17
+-38 -22
+#Rect
+17 19
+45 -9
+#Circle
+8
+-97 -64
+#Triangle
+19 19 28
+77 62
+#Rect
+7 14
+-55 52
+#Circle
+8
+55 65
+#Triangle
+13 14 18
+-73 42
+#Rect
+7 18
+-98 -61
+#Circle
+4
+-39 -65
+#Triangle
+8 10 5
+-99 -98
+#Rect
+6 14
+-28 65
+#Circle
+10
+-57 68
+#Triangle
+4 2 4
+-22 29
+#Rect
+9 15
+75 -99
+#Circle
+10
+3 28
+#Triangle
+14 15 11
+-74 -22
+#Rect
+15 19
+-98 -26
+#Circle
+8
+33 -28
+#Triangle
+14 20 18
+24 15
+#Rect
+12 17
+-72 -38
+#Circle
+3
+5 53
+#Triangle
+17 14 12
+42 -82
+#Rect
+7 13
+38 5
+#Circle
+3
+67 45
+#Triangle
+12 9 11
+71 4
+#Rect
+5 9
+71 89
+#Circle
+1
+-89 32
+#Triangle
+12 20 25
+-47 10
+#Rect
+15 17
+38 89
+#Circle
+8
+-71 2
+#Triangle
+16 15 26
+-21 78
+#Rect
+17 19
+33 -41
+#Circle
+9
+-95 -34
+#Triangle
+6 8 10
+79 -85
+#Rect
+17 20
+26 5
+#Circle
+9
+-2 29
+#Triangle
+3 10 11
+-69 -43
+#Rect
+2 11
+-78 -52
+#Circle
+10
+5 -10
+#Triangle
+3 19 18
+78 -55
+#Rect
+2 8
+-62 -84
+#Circle
+6
+-57 23
+#Triangle
+9 2 9
+77 78
+#Rect
+18 20
+-45 -7
+#Circle
+3
+92 -71
+#Triangle
+17 7 19
+-64 14
+#Rect
+6 8
+-56 93
+#Circle
+8
+79 93
+#Triangle
+10 3 8
+-49 18
+#Rect
+3 10
+12 -56
+#Circle
+2
+23 98
+#Triangle
+16 14 12
+74 -22
+#Rect
+13 18
+2 63
+#Circle
+0
+11 -79
+#Triangle
+6 8 9
+57 27
+#Rect
+10 15
+24 13
+#Circle
+10
+-30 -24
+#Triangle
+15 6 11
+-88 28
+#Rect
+6 16
+78 -5
+#Circle
+5
+11 -5
+#Triangle
+19 16 24
+59 16
+#Rect
+8 13
+82 -94
+#Circle
+3
+-27 -14
+#Triangle
+17 9 20
+4 -39
+#Rect
+3 17
+-6 5
+#Circle
+0
+45 -17
+#Triangle
+6 4 9
+39 57
+#Rect
+2 6
+16 -15
+#Circle
+8
+-33 -62
+#Triangle
+16 13 13
+-1 71
+#Rect
+0 3
+94 58
+#Circle
+8
+18 44
+#Triangle
+6 19 23
+88 -1
+#Rect
+14 18
+9 63
+#Circle
+8
+-93 45
+#Triangle
+8 16 14
+94 92
+#Rect
+0 1
+-8 56
+#Circle
+4
+-33 60
+#Triangle
+18 10 10
+10 -87
+#Rect
+7 17
+21 -33
+#Circle
+8
+-87 -46
+#Triangle
+8 17 16
+-29 -42
+#Rect
+20 20
+-22 16
+#Circle
+1
+-98 28
+#Triangle
+13 20 18
+-46 91
+#Rect
+6 11
+51 83
+#Circle
+10
+-32 -93
+#Triangle
+16 5 18
+24 -98
+#Rect
+15 20
+-75 11
+#Circle
+10
+-98 -34
+#Triangle
+17 20 22
+17 20
+#Rect
+13 20
+47 -96
+#Circle
+8
+66 -16
+#Triangle
+10 20 27
+9 -62
+#Rect
+10 14
+40 -14
+#Circle
+5
+-13 9
+#Triangle
+8 16 16
+19 -61
+#Rect
+1 8
+36 37
+#Circle
+6
+-85 12
+#Triangle
+13 15 21
+-3 5
+#Rect
+6 20
+26 97
+#Circle
+2
+-42 42
+#Triangle
+19 10 27
+78 84
+#Rect
+4 14
+17 -95
+#Circle
+2
+-92 -70
+#Triangle
+9 8 2
+12 55
+#Rect
+14 19
+80 2
+#Circle
+10
+-71 -19
+#Triangle
+13 8 9
+6 -8
+#Rect
+14 17
+-56 94
+#Circle
+1
+19 -41
+#Triangle
+19 13 7
+80 -63
+#Rect
+12 18
+-90 -83
+#Circle
+7
+46 -53
+#Triangle
+15 19 16
+19 31
+#Rect
+8 20
+-32 -93
+#Circle
+6
+68 49
+#Triangle
+4 17 18
+19 -36
+#Rect
+2 10
+24 -38
+#Circle
+7
+-82 86
+#Triangle
+19 14 21
+29 48
+#Rect
+9 12
+-79 100
+#Circle
+8
+96 70
+#Triangle
+5 11 12
+42 23
+#Rect
+17 20
+76 -67
+#Circle
+2
+99 -53
+#Triangle
+6 6 8
+98 -31
+#Rect
+4 12
+72 68
+#Circle
+7
+-96 96
+#Triangle
+19 15 6
+-68 -33
+#Rect
+4 5
+-52 41
+#Circle
+7
+93 95
+#Triangle
+10 11 13
+39 -31
+#Rect
+2 14
+96 21
+#Circle
+6
+81 -7
+#Triangle
+20 18 17
+56 -78
+#Rect
+4 9
+14 -74
+#Circle
+0
+-97 -25
+#Triangle
+17 17 24
+-54 -68
+#Rect
+12 15
+80 54
+#Circle
+5
+4 11
+#Triangle
+20 17 33
+11 -79
+#Rect
+5 17
+96 -83
+#Circle
+6
+91 -31
+#Triangle
+18 13 19
+-33 -29
+#Rect
+10 17
+-17 -82
+#Circle
+9
+97 59
+#Triangle
+12 17 7
+61 17
+#Rect
+1 8
+49 5
+#Circle
+1
+65 88
+#Triangle
+18 15 13
+-31 -93
+#Rect
+15 16
+-97 -77
+#Circle
+5
+51 19
+#Triangle
+5 12 12
+27 -48
+#Rect
+8 14
+-28 -60
+#Circle
+10
+68 49
+#Triangle
+1 3 3
+67 8
+#Rect
+4 13
+-71 -15
+#Circle
+10
+1 57
+#Triangle
+16 11 25
+-50 82
+#Rect
+15 19
+37 -61
+#Circle
+9
+-10 -10
+#Triangle
+8 18 24
+-28 88
+#Rect
+11 18
+-56 -84
+#Circle
+5
+46 -62
+#Triangle
+2 7 8
+55 53
+#Rect
+3 10
+-40 -63
+#Circle
+4
+87 8
+#Triangle
+9 4 8
+-6 50
+#Rect
+7 19
+-83 -34
+#Circle
+10
+50 18
+#Triangle
+6 5 8
+-18 -82
+#Rect
+5 7
+-91 53
+#Circle
+6
+-28 -91
+#Triangle
+10 20 13
+85 -70
+#Rect
+9 19
+9 -49
+#Circle
+10
+94 -42
+#Triangle
+6 4 5
+23 33
+#Rect
+4 12
+-35 50
+#Circle
+5
+-16 59
+#Triangle
+16 13 23
+-97 -35
+#Rect
+0 5
+77 -27
+#Circle
+0
+-23 -23
+#Triangle
+11 17 18
+32 43
+#Rect
+9 11
+-98 -100
+#Circle
+0
+-10 93
+#Triangle
+19 14 17
+-94 98
+#Rect
+2 8
+48 56
+#Circle
+2
+-18 24
+#Triangle
+4 2 5
+-31 24
+#Rect
+1 2
+75 35
+#Circle
+9
+54 -40
+#Triangle
+6 16 11
+30 -1
+#Rect
+6 8
+43 -58
+#Circle
+10
+-69 43
+#Triangle
+18 20 16
+89 -81
+#Rect
+0 8
+73 6
+#Circle
+5
+84 48
+#Triangle
+8 11 13
+21 28
+#Rect
+11 14
+-24 -33
+#Circle
+9
+-78 61
+#Triangle
+19 6 23
+48 -39
+#Rect
+10 10
+1 -61
+#Circle
+7
+50 -3
+#Triangle
+13 8 8
+1 78
+#Rect
+1 11
+-98 7
+#Circle
+0
+-23 96
+#Triangle
+17 11 22
+-24 -51
+#Rect
+5 8
+63 -98
+#Circle
+0
+27 45
+#Triangle
+13 15 3
+94 79
+#Rect
+0 2
+69 -89
+#Circle
+5
+2 -93
+#Triangle
+19 17 32
+-95 -69
+#Rect
+2 13
+-44 22
+#Circle
+4
+-38 72
+#Triangle
+13 5 14
+-19 87
+#Rect
+2 20
+-9 -4
+#Circle
+6
+-86 -68
+#Triangle
+17 9 15
+78 58
+#Rect
+2 6
+5 10
+#Circle
+3
+-40 -13
+#Triangle
+10 9 6
+-86 -1
+#Rect
+19 20
+-12 97
+#Circle
+1
+-38 80
+#Triangle
+18 9 21
+95 28
+#Rect
+18 19
+94 -100
+#Circle
+0
+88 -97
+#Triangle
+6 5 10
+73 69
+#Rect
+3 14
+10 12
+#Circle
+7
+66 52
+#Triangle
+10 19 20
+34 -93
+#Rect
+1 18
+12 -71
+#Circle
+1
+27 0
+#Triangle
+15 13 17
+0 -73
+#Rect
+10 19
+-20 -65
+#Circle
+2
+56 -2
+#Triangle
+18 14 30
+16 63
+#Rect
+0 15
+-92 -69
+#Circle
+4
+44 -58
+#Triangle
+20 18 25
+-35 76
+#Rect
+6 12
+75 -12
+#Circle
+0
+-23 -42
+#Triangle
+10 6 5
+37 -9
+#Rect
+3 5
+-33 -91
+#Circle
+5
+-15 -5
+#Triangle
+11 11 2
+-23 46
+#Rect
+0 16
+-67 7
+#Circle
+8
+-61 -20
+#Triangle
+10 15 14
+-76 97
+#Rect
+3 13
+38 -34
+#Circle
+9
+-7 -23
+#Triangle
+12 13 18
+-54 26
+#Rect
+0 1
+-23 98
+#Circle
+9
+-61 -19
+#Triangle
+10 16 13
+-78 35
+#Rect
+6 14
+84 17
+#Circle
+7
+-23 21
+#Triangle
+14 18 29
+-74 36
+#Rect
+1 20
+45 -53
+#Circle
+7
+24 60
+#Triangle
+17 17 4
+46 -100
+#Rect
+11 19
+-77 -85
+#Circle
+8
+-21 52
+#Triangle
+9 7 11
+-59 -37
+#Rect
+5 9
+-33 -31
+#Circle
+7
+1 -96
+#Triangle
+6 20 20
+-44 -36
+#Rect
+3 17
+94 35
+#Circle
+1
+-20 -86
+#Triangle
+7 16 13
+-62 7
+#Rect
+4 13
+75 15
+#Circle
+2
+-28 64
+#Triangle
+8 14 18
+-17 57
+#Rect
+10 16
+99 12
+#Circle
+7
+-70 91
+#Triangle
+9 17 19
+94 -71
+#Rect
+1 9
+43 64
+#Circle
+0
+45 27
+#Triangle
+15 8 9
+28 -19
+#Rect
+13 16
+2 78
+#Circle
+4
+-32 89
+#Triangle
+20 18 23
+98 -72
+#Rect
+2 9
+-84 -35
+#Circle
+1
+-89 86
+#Triangle
+11 10 6
+56 78
+#Rect
+5 13
+-43 71
+#Circle
+1
+47 87
+#Triangle
+8 9 6
+100 50
+#Rect
+5 16
+33 29
+#Circle
+4
+-91 60
+#Triangle
+19 20 37
+-74 35
+#Rect
+11 15
+25 -93
+#Circle
+2
+-8 -95
+#Triangle
+12 3 12
+78 17
+#Rect
+0 20
+43 -32
+#Circle
+9
+86 -70
+#Triangle
+15 9 18
+-49 -91
+#Rect
+15 18
+57 -85
+#Circle
+3
+-33 -87
+#Triangle
+12 20 29
+100 -59
+#Rect
+4 8
+24 2
+#Circle
+3
+-66 5
+#Triangle
+7 7 12
+7 90
+#Rect
+1 8
+16 -35
+#Circle
+2
+13 74
+#Triangle
+16 20 31
+-31 4
+#Rect
+1 20
+-61 -8
+#Circle
+2
+36 -37
+#Triangle
+8 13 11
+76 -49
+#Rect
+1 11
+-82 15
+#Circle
+9
+-89 -44
+#Triangle
+7 11 5
+66 11
+#Rect
+18 19
+-71 40
+#Circle
+3
+99 -21
+#Triangle
+18 17 5
+-4 56
+#Rect
+7 10
+-84 43
+#Circle
+9
+42 -35
+#Triangle
+7 8 2
+43 -88
+#Rect
+3 15
+57 -86
+#Circle
+2
+-42 65
+#Triangle
+2 9 9
+-26 20
+#Rect
+0 1
+64 84
+#Circle
+8
+-12 -5
+#Triangle
+20 1 20
+76 29
+#Rect
+8 16
+86 -88
+#Circle
+7
+68 -37
+#Triangle
+17 7 12
+-46 -55
+#Rect
+2 5
+-80 -49
+#Circle
+8
+-78 -96
+#Triangle
+11 10 17
+-18 99
+#Rect
+3 9
+50 -9
+#Circle
+5
+72 80
+#Triangle
+16 10 8
+62 41
+#Rect
+9 20
+-72 -14
+#Circle
+1
+62 -10
+#Triangle
+12 19 8
+-98 3
+#Rect
+17 20
+35 40
+#Circle
+5
+-86 -47
+#Triangle
+2 1 2
+-11 51
+#Rect
+1 17
+-57 -67
+#Circle
+5
+2 77
+#Triangle
+11 19 18
+-52 -24
+#Rect
+6 10
+96 -5
+#Circle
+1
+74 0
+#Triangle
+6 3 6
+68 -3
+#Rect
+8 16
+13 -49
+#Circle
+2
+3 -74
+#Triangle
+20 20 34
+-44 22
+#Rect
+18 18
+65 -2
+#Circle
+9
+-78 3
+#Triangle
+17 16 19
+53 28
+#Rect
+5 20
+46 -79
+#Circle
+9
+40 -30
+#Triangle
+16 13 19
+65 -31
+#Rect
+10 20
+-86 77
+#Circle
+5
+70 -53
+#Triangle
+4 5 6
+-32 85
+#Rect
+2 5
+8 84
+#Circle
+3
+-6 60
+#Triangle
+5 17 17
+-22 51
+#Rect
+10 18
+-76 -69
+#Circle
+5
+15 83
+#Triangle
+6 14 12
+82 -13
+#Rect
+4 15
+-81 35
+#Circle
+10
+-51 95
+#Triangle
+7 7 12
+72 -92
+#Rect
+2 14
+-66 44
+#Circle
+0
+24 -16
+#Triangle
+13 6 13
+83 -32
+#Rect
+8 16
+-64 39
+#Circle
+6
+-80 19
+#Triangle
+14 10 21
+59 39
+#Rect
+4 15
+46 34
+#Circle
+5
+-39 -47
+#Triangle
+13 13 25
+-32 -74
+#Rect
+3 17
+-2 24
+#Circle
+5
+73 61
+#Triangle
+17 18 27
+-69 78
+#Rect
+1 16
+45 31
+#Circle
+0
+-52 57
+#Triangle
+6 11 14
+29 -3
+#Rect
+6 14
+-82 -91
+#Circle
+4
+-70 92
+#Triangle
+16 14 8
+-74 -24
+#Rect
+6 18
+6 36
+#Circle
+10
+27 -3
+#Triangle
+18 18 16
+-100 -86
+#Rect
+3 11
+-78 53
+#Circle
+5
+67 96
+#Triangle
+19 19 35
+-19 60
+#Rect
+7 9
+69 30
+#Circle
+6
+76 77
+#Triangle
+16 2 16
+75 55
+#Rect
+2 12
+33 -67
+#Circle
+9
+64 -67
+#Triangle
+20 13 18
+61 82
+#Rect
+3 18
+-80 -79
+#Circle
+4
+43 64
+#Triangle
+16 6 11
+0 12
+#Rect
+4 8
+-37 -38
+#Circle
+9
+57 -5
+#Triangle
+4 5 3
+-73 -59
+#Rect
+5 6
+41 -91
+#Circle
+7
+40 -3
+#Triangle
+6 6 1
+-98 67
+#Rect
+3 9
+-22 -99
+#Circle
+0
+-15 83
+#Triangle
+16 10 24
+-49 -42
+#Rect
+0 7
+-75 78
+#Circle
+4
+-99 71
+#Triangle
+16 9 24
+-37 57
+#Rect
+2 14
+60 17
+#Circle
+9
+93 29
+#Triangle
+4 13 11
+21 6
+#Rect
+9 18
+-7 94
+#Circle
+7
+-53 21
+#Triangle
+9 17 11
+17 -82
+#Rect
+17 19
+40 5
+#Circle
+5
+-57 -30
+#Triangle
+19 15 25
+64 -10
+#Rect
+12 19
+45 43
+#Circle
+8
+-77 50
+#Triangle
+8 19 22
+81 63
+#Rect
+10 14
+35 30
+#Circle
+5
+-46 -36
+#Triangle
+17 11 17
+-67 61
+#Rect
+12 16
+47 18
+#Circle
+8
+67 43
+#Triangle
+6 15 13
+-90 86
+#Rect
+3 10
+-58 -42
+#Circle
+3
+89 -3
+#Triangle
+6 12 16
+-30 1
+#Rect
+2 10
+-95 91
+#Circle
+6
+-67 -35
+#Triangle
+8 18 16
+34 99
+#Rect
+13 14
+88 -90
+#Circle
+9
+90 34
+#Triangle
+9 15 9
+-71 33
+#Rect
+7 11
+-94 -82
+#Circle
+10
+-28 74
+#Triangle
+18 15 7
+74 73
+#Rect
+4 12
+-5 -26
+#Circle
+6
+39 12
+#Triangle
+10 9 11
+-96 -97
+#Rect
+1 19
+72 -42
+#Circle
+8
+63 46
+#Triangle
+13 4 16
+92 74
+#Rect
+3 19
+84 25
+#Circle
+6
+84 -28
+#Triangle
+12 10 20
+-98 -96
+#Rect
+10 16
+-36 -9
+#Circle
+5
+-92 -60
+#Triangle
+18 11 17
+-7 -75
+#Rect
+11 18
+-17 -70
+#Circle
+6
+77 -30
+#Triangle
+8 12 13
+3 -47
+#Rect
+2 3
+-29 35
+#Circle
+0
+78 -15
+#Triangle
+15 9 8
+25 -94
+#Rect
+6 15
+-23 -67
+#Circle
+5
+97 60
+#Triangle
+7 16 10
+28 -70
+#Rect
+1 5
+-35 -11
+#Circle
+5
+-79 -35
+#Triangle
+9 16 15
+-18 36
+#Rect
+1 10
+1 97
+#Circle
+6
+14 -98
+#Triangle
+18 12 15
+-100 30
+#Rect
+6 20
+-80 64
+#Circle
+1
+98 9
+#Triangle
+11 4 12
+-83 41
+#Rect
+2 8
+-23 64
+#Circle
+9
+-10 77
+#Triangle
+1 3 3
+-36 -5
+#Rect
+2 13
+49 49
+#Circle
+2
+75 -80
+#Triangle
+10 10 12
+4 77
+#Rect
+5 16
+-40 -48
+#Circle
+5
+84 98
+#Triangle
+9 12 18
+82 -93
+#Rect
+0 13
+-96 -8
+#Circle
+10
+9 -47
+#Triangle
+8 18 14
+-100 -16
+#Rect
+7 10
+6 -33
+#Circle
+6
+90 -64
+#Triangle
+10 5 6
+69 53
+#Rect
+5 18
+-90 -63
+#Circle
+10
+-56 37
+#Triangle
+10 18 24
+-63 78
+#Rect
+13 19
+33 6
+#Circle
+3
+12 -60
+#Triangle
+11 16 16
+-18 53
+#Rect
+11 17
+-60 15
+#Circle
+2
+-88 -39
+#Triangle
+20 18 8
+17 -19
+#Rect
+6 8
+-96 -5
+#Circle
+9
+-66 39
+#Triangle
+10 15 14
+26 -41
+#Rect
+9 19
+-74 -23
+#Circle
+7
+-28 -93
+#Triangle
+7 3 6
+-6 -42
+#Rect
+11 16
+-57 -40
+#Circle
+7
+92 -1
+#Triangle
+15 15 12
+92 -23
+#Rect
+12 19
+80 79
+#Circle
+10
+-61 99
+#Triangle
+5 5 2
+41 75
+#Rect
+4 17
+-28 -14
+#Circle
+8
+-21 47
+#Triangle
+16 8 21
+0 -53
+#Rect
+20 20
+-34 10
+#Circle
+10
+-86 -24
+#Triangle
+19 8 15
+18 -5
+#Rect
+12 12
+-62 80
+#Circle
+4
+-20 -48
+#Triangle
+8 10 4
+-5 58
+#Rect
+6 6
+32 14
+#Circle
+3
+-4 -87
+#Triangle
+6 12 13
+-69 39
+#Rect
+4 18
+47 94
+#Circle
+6
+80 98
+#Triangle
+12 9 8
+-77 -13
+#Rect
+2 11
+72 -29
+#Circle
+6
+-78 45
+#Triangle
+3 7 7
+60 -8
+#Rect
+1 11
+80 -53
+#Circle
+4
+-16 88
+#Triangle
+18 15 20
+26 30
+#Rect
+2 10
+36 -32
+#Circle
+5
+40 -30
+#Triangle
+15 15 4
+71 89
+#Rect
+8 18
+-25 17
+#Circle
+10
+21 -93
+#Triangle
+18 17 33
+39 65
+#Rect
+0 17
+69 27
+#Circle
+1
+-43 -78
+#Triangle
+6 13 18
+9 -36
+#Rect
+2 9
+18 -55
+#Circle
+0
+-18 -57
+#Triangle
+13 3 13
+-5 80
+#Rect
+7 17
+82 19
+#Circle
+0
+25 -10
+#Triangle
+2 9 8
+-57 -17
+#Rect
+7 16
+92 -45
+#Circle
+5
+-5 -29
+#Triangle
+8 12 18
+-42 17
+#Rect
+0 11
+-31 -71
+#Circle
+4
+79 53
+#Triangle
+7 7 4
+75 66
+#Rect
+6 20
+-52 4
+#Circle
+0
+-93 -15
+#Triangle
+11 13 12
+38 -84
+#Rect
+4 6
+43 -73
+#Circle
+5
+-53 10
+#Triangle
+16 11 23
+-15 -84
+#Rect
+1 12
+88 -98
+#Circle
+0
+53 29
+#Triangle
+10 18 9
+17 22
+#Rect
+8 19
+86 49
+#Circle
+1
+-99 68
+#Triangle
+11 16 19
+-60 99
+#Rect
+3 6
+12 -82
+#Circle
+8
+50 52
+#Triangle
+18 14 8
+-91 67
+#Rect
+2 5
+-77 18
+#Circle
+2
+-40 61
+#Triangle
+14 17 11
+49 83
+#Rect
+2 6
+73 -41
+#Circle
+4
+-53 -57
+#Triangle
+13 7 9
+31 8
+#Rect
+5 11
+99 59
+#Circle
+1
+-15 14
+#Triangle
+3 7 9
+10 30
+#Rect
+5 20
+70 -60
+#Circle
+2
+-59 -32
+#Triangle
+15 3 16
+63 -27
+#Rect
+2 7
+30 -34
+#Circle
+0
+-79 21
+#Triangle
+16 12 24
+-82 89
+#Rect
+18 19
+71 -22
+#Circle
+0
+-27 59
+#Triangle
+5 9 12
+63 -28
+#Rect
+0 12
+-84 36
+#Circle
+4
+14 -30
+#Triangle
+9 14 12
+-87 47
+#Rect
+5 16
+-56 -12
+#Circle
+2
+-34 -51
+#Triangle
+4 5 4
+32 -49
+#Rect
+3 15
+6 94
+#Circle
+9
+46 -19
+#Triangle
+12 18 12
+45 -93
+#Rect
+5 11
+64 80
+#Circle
+5
+-98 47
+#Triangle
+16 7 12
+5 6
+#Rect
+9 16
+-33 -21
+#Circle
+8
+-16 19
+#Triangle
+13 12 16
+-54 50
+#Rect
+2 6
+-88 -23
+#Circle
+0
+24 -84
+#Triangle
+3 10 12
+12 50
+#Rect
+7 12
+11 69
+#Circle
+1
+62 -46
+#Triangle
+8 20 24
+1 -14
+#Rect
+13 16
+59 51
+#Circle
+4
+3 36
+#Triangle
+18 10 18
+51 -89
+#Rect
+1 7
+-67 -10
+#Circle
+2
+45 8
+#Triangle
+12 6 11
+55 -70
+#Rect
+0 13
+-89 -75
+#Circle
+0
+5 -6
+#Triangle
+18 15 8
+-56 100
+#Rect
+3 7
+75 41
+#Circle
+3
+-61 -85
+#Triangle
+4 11 10
+43 60
+#Rect
+4 12
+26 68
+#Circle
+8
+23 42
+#Triangle
+10 16 25
+-76 50
+#Rect
+1 5
+-45 -73
+#Circle
+6
+95 -82
+#Triangle
+14 18 15
+84 21
+#Rect
+4 4
+-84 -87
+#Circle
+6
+-83 -50
+#Triangle
+7 5 9
+-48 47
+#Rect
+14 20
+86 48
+#Circle
+1
+-76 42
+#Triangle
+11 15 8
+-42 -41
+#Rect
+8 17
+19 -74
+#Circle
+7
+-12 33
+#Triangle
+10 12 15
+-66 -20
+#Rect
+1 11
+-62 5
+#Circle
+7
+-29 -82
+#Triangle
+2 2 2
+-42 99
+#Rect
+7 17
+87 -95
+#Circle
+5
+8 -4
+#Triangle
+6 8 7
+63 -97
+#Rect
+5 8
+63 -96
+#Circle
+0
+52 -32
+#Triangle
+18 2 18
+-34 100
+#Rect
+1 16
+17 -100
+#Circle
+9
+-90 -45
+#Triangle
+15 20 14
+-30 10
+#Rect
+10 15
+-90 96
+#Circle
+5
+1 -61
+#Triangle
+16 16 26
+89 56
+#Rect
+10 12
+-14 -59
+#Circle
+10
+-51 -1
+#Triangle
+5 2 5
+-61 -66
+#Rect
+0 9
+47 60
+#Circle
+4
+-33 2
+#Triangle
+8 8 15
+19 -54
+#Rect
+4 19
+88 -67
+#Circle
+0
+-8 -90
+#Triangle
+15 15 29
+22 -59
+#Rect
+6 10
+-54 -8
+#Circle
+0
+52 -79
+#Triangle
+11 17 18
+-35 2
+#Rect
+5 11
+53 -58
+#Circle
+2
+-31 75
+#Triangle
+15 11 20
+-39 96
+#Rect
+12 12
+8 36
+#Circle
+10
+93 -99
+#Triangle
+18 15 13
+56 15
+#Rect
+5 19
+-72 -80
+#Circle
+8
+71 -5
+#Triangle
+7 13 11
+53 -26
+#Rect
+4 14
+-16 -75
+#Circle
+0
+-34 -5
+#Triangle
+6 12 14
+-19 30
+#Rect
+14 17
+-91 48
+#Circle
+3
+-3 -98
+#Triangle
+4 18 21
+16 78
+#Rect
+14 18
+-79 -93
+#Circle
+9
+-99 53
+#Triangle
+11 9 13
+-54 -13
+#Rect
+1 1
+81 56
+#Circle
+1
+-27 -33
+#Triangle
+18 13 10
+-60 -32
+#Rect
+1 5
+32 -52
+#Circle
+10
+-74 -24
+#Triangle
+20 20 31
+-85 85
+#Rect
+3 5
+-49 72
+#Circle
+0
+66 14
+#Triangle
+19 11 10
+-9 -20
+#Rect
+8 10
+55 -96
+#Circle
+3
+-84 40
+#Triangle
+9 5 6
+-84 78
+#Rect
+2 20
+-51 -57
+#Circle
+9
+6 -12
+#Triangle
+10 20 28
+-31 70
+#Rect
+2 3
+41 26
+#Circle
+1
+70 13
+#Triangle
+6 5 10
+58 39
+#Rect
+6 8
+-15 -82
+#Circle
+3
+40 -98
+#Triangle
+17 19 28
+88 47
+#Rect
+3 16
+78 8
+#Circle
+8
+-15 49
+#Triangle
+15 19 15
+95 13
+#Rect
+8 20
+58 34
+#Circle
+0
+36 -76
+#Triangle
+12 8 7
+-100 -44
+#Rect
+11 15
+-78 -95
+#Circle
+2
+51 -6
+#Triangle
+10 5 13
+34 97
+#Rect
+5 17
+-56 31
+#Circle
+3
+30 84
+#Triangle
+7 20 17
+39 1
+#Rect
+19 19
+33 -51
+#Circle
+4
+-66 86
+#Triangle
+14 11 19
+-3 -81
+#Rect
+4 12
+69 -58
+#Circle
+1
+-55 53
+#Triangle
+20 19 37
+-87 82
+#Rect
+7 14
+72 72
+#Circle
+4
+95 92
+#Triangle
+1 11 11
+68 -82
+#Rect
+1 6
+-79 58
+#Circle
+4
+-12 56
+#Triangle
+10 5 13
+5 51
+#Rect
+11 16
+54 -35
+#Circle
+9
+20 -89
+#Triangle
+13 16 23
+64 -43
+#Rect
+6 12
+2 -25
+#Circle
+0
+-76 30
+#Triangle
+2 20 20
+-63 43
+#Rect
+16 18
+2 -34
+#Circle
+1
+-42 90
+#Triangle
+19 10 19
+-28 -65
+#Rect
+6 8
+-39 -82
+#Circle
+3
+80 50
+#Triangle
+7 3 5
+18 -7
+#Rect
+11 13
+-73 66
+#Circle
+1
+40 -37
+#Triangle
+6 7 11
+-54 77
+#Rect
+12 16
+-78 -80
+#Circle
+9
+-38 -53
+#Triangle
+14 8 9
+-9 -55
+#Rect
+8 16
+99 3
+#Circle
+5
+-97 -53
+#Triangle
+12 20 26
+29 -97
+#Rect
+0 2
+-24 22
+#Circle
+5
+14 11
+#Triangle
+7 9 7
+-26 -67
+#Rect
+6 17
+-15 25
+#Circle
+8
+-49 -60
+#Triangle
+13 11 19
+-58 91
+#Rect
+8 10
+-9 29
+#Circle
+1
+-60 -82
+#Triangle
+16 9 11
+47 -5
+#Rect
+14 20
+-16 -52
+#Circle
+2
+-5 92
+#Triangle
+6 5 4
+12 -62
+#Rect
+3 13
+41 42
+#Circle
+10
+-77 -66
+#Triangle
+2 1 2
+75 -89
+#Rect
+7 16
+45 4
+#Circle
+5
+72 10
+#Triangle
+10 17 21
+78 65
+#Rect
+4 17
+-84 47
+#Circle
+7
+-77 -84
+#Triangle
+6 17 14
+23 63
+#Rect
+3 20
+43 -94
+#Circle
+1
+-74 -19
+#Triangle
+16 15 8
+7 -46
+#Rect
+17 18
+42 -97
+#Circle
+7
+58 84
+#Triangle
+1 18 18
+-100 -1
+#Rect
+12 19
+-2 -55
+#Circle
+0
+16 10
+#Triangle
+3 8 10
+-43 -85
+#Rect
+13 16
+-25 -33
+#Circle
+8
+61 68
+#Triangle
+13 15 3
+-13 -62
+#Rect
+15 18
+-26 44
+#Circle
+4
+-1 69
+#Triangle
+2 10 9
+99 -41
+#Rect
+1 16
+80 18
+#Circle
+0
+81 1
+#Triangle
+6 9 10
+5 58
+#Rect
+6 13
+2 30
+#Circle
+10
+-38 94
+#Triangle
+4 4 4
+38 65
+#Rect
+12 12
+98 66
+#Circle
+1
+-50 -70
+#Triangle
+7 17 20
+-5 -50
+#Rect
+8 12
+-58 31
+#Circle
+3
+-60 -62
+#Triangle
+9 19 15
+77 -87
+#Rect
+5 8
+-41 41
+#Circle
+0
+-20 93
+#Triangle
+11 12 16
+51 75
+#Rect
+8 10
+27 91
+#Circle
+10
+32 31
+#Triangle
+9 4 9
+62 -85
+#Rect
+12 20
+-69 8
+#Circle
+0
+8 75
+#Triangle
+3 17 18
+-89 72
+#Rect
+2 13
+38 50
+#Circle
+5
+56 53
+#Triangle
+17 4 18
+80 50
+#Rect
+3 20
+63 -99
+#Circle
+0
+97 -5
+#Triangle
+17 9 17
+-42 29
+#Rect
+13 14
+84 58
+#Circle
+2
+-43 24
+#Triangle
+11 18 21
+58 54
+#Rect
+7 19
+-42 -92
+#Circle
+9
+-61 51
+#Triangle
+20 10 13
+-73 15
+#Rect
+4 4
+61 54
+#Circle
+8
+-51 59
+#Triangle
+19 7 13
+-56 21
+#Rect
+14 16
+34 -68
+#Circle
+6
+-63 99
+#Triangle
+6 17 15
+62 -74
+#Rect
+1 6
+21 -87
+#Circle
+10
+-67 80
+#Triangle
+20 3 18
+68 -54
+#Rect
+7 17
+82 100
+#Circle
+10
+-33 -71
+#Triangle
+20 13 28
+46 44
+#Rect
+11 20
+8 55
+#Circle
+10
+59 -77
+#Triangle
+19 19 6
+-35 29
+#Rect
+11 15
+-44 64
+#Circle
+8
+-49 -11
+#Triangle
+14 9 14
+-16 -68
+#Rect
+1 7
+-8 -17
+#Circle
+10
+-84 -90
+#Triangle
+11 13 11
+12 14
+#Rect
+11 13
+-99 -71
+#Circle
+6
+77 60
+#Triangle
+9 6 10
+-40 -21
+#Rect
+8 17
+5 -75
+#Circle
+3
+39 -79
+#Triangle
+18 18 34
+48 -15
+#Rect
+14 15
+-38 -76
+#Circle
+7
+-37 -58
+#Triangle
+18 11 15
+-88 -17
+#Rect
+7 18
+3 -73
+#Circle
+0
+-100 13
+#Triangle
+2 2 2
+-57 80
+#Rect
+3 9
+34 62
+#Circle
+1
+77 81
+#Triangle
+3 9 10
+-92 16
+#Rect
+4 7
+32 -29
+#Circle
+6
+89 30
+#Triangle
+14 7 11
+13 -14
+#Rect
+11 13
+5 -28
+#Circle
+4
+-47 -25
+#Triangle
+17 5 17
+-76 -53
+#Rect
+7 11
+-34 -80
+#Circle
+10
+-77 -39
+#Triangle
+15 12 12
+-88 92
+#Rect
+13 17
+-90 -39
+#Circle
+3
+-9 -99
+#Triangle
+14 10 11
+-72 -8
+#Rect
+9 20
+62 -88
+#Circle
+7
+-41 -18
+#Triangle
+18 8 18
+-48 -13
+#Rect
+4 18
+76 -75
+#Circle
+8
+85 69
+#Triangle
+5 17 18
+-12 -20
+#Rect
+17 20
+-59 32
+#Circle
+6
+92 65
+#Triangle
+15 15 2
+-53 75
+#Rect
+7 9
+72 48
+#Circle
+0
+14 100
+#Triangle
+8 12 6
+-44 50
+#Rect
+1 4
+60 59
+#Circle
+1
+93 10
+#Triangle
+4 11 8
+-95 78
+#Rect
+0 7
+-3 8
+#Circle
+2
+32 70
+#Triangle
+7 13 15
+-51 -96
+#Rect
+5 8
+-6 42
+#Circle
+0
+-96 -52
+#Triangle
+6 4 7
+95 64
+#Rect
+16 16
+37 -38
+#Circle
+1
+72 39
+#Triangle
+4 9 9
+12 57
+#Rect
+7 15
+-70 -84
+#Circle
+7
+26 -58
+#Triangle
+13 11 7
+30 45
+#Rect
+9 17
+83 -89
+#Circle
+5
+69 -42
+#Triangle
+3 15 16
+-42 -22
+#Rect
+13 18
+-29 -24
+#Circle
+4
+-83 -16
+#Triangle
+12 7 16
+-82 -91
+#Rect
+3 10
+-98 -13
+#Circle
+1
+42 9
+#Triangle
+16 6 21
+18 52
+#Rect
+17 19
+-76 3
+#Circle
+5
+-42 -22
+#Triangle
+18 14 22
+38 32
+#Rect
+2 20
+-13 -78
+#Circle
+5
+96 26
+#Triangle
+10 11 17
+90 24
+#Rect
+3 15
+47 44
+#Circle
+8
+-8 70
+#Triangle
+7 12 13
+95 -76
+#Rect
+3 10
+-89 -29
+#Circle
+7
+-92 33
+#Triangle
+8 8 5
+-42 15
+#Rect
+5 7
+80 90
+#Circle
+3
+80 46
+#Triangle
+4 1 4
+14 -2
+#Rect
+1 8
+31 36
+#Circle
+2
+-6 -70
+#Triangle
+7 7 11
+-94 40
+#Rect
+9 17
+-58 89
+#Circle
+1
+23 25
+#Triangle
+20 8 17
+-91 27
+#Rect
+13 19
+-50 -92
+#Circle
+1
+76 85
+#Triangle
+5 10 12
+83 -54
+#Rect
+1 12
+9 42
+#Circle
+9
+6 38
+#Triangle
+19 10 12
+-70 89
+#Rect
+1 7
+18 53
+#Circle
+7
+76 48
+#Triangle
+13 17 8
+17 93
+#Rect
+2 14
+60 30
+#Circle
+4
+0 29
+#Triangle
+13 20 12
+96 -84
+#Rect
+2 15
+5 -15
+#Circle
+10
+11 57
+#Triangle
+15 15 13
+-78 -80
+#Rect
+1 3
+-53 -35
+#Circle
+0
+69 59
+#Triangle
+12 1 12
+5 -15
+#Rect
+6 18
+70 64
+#Circle
+0
+72 52
+#Triangle
+17 15 12
+-10 14
+#Rect
+10 16
+36 98
+#Circle
+6
+89 -99
+#Triangle
+17 18 9
+-25 -29
+#Rect
+2 20
+2 40
+#Circle
+0
+-3 -43
+#Triangle
+19 14 22
+-30 99
+#Rect
+12 15
+-32 13
+#Circle
+5
+-88 1
+#Triangle
+20 8 19
+-59 -30
+#Rect
+1 12
+-91 -38
+#Circle
+1
+51 25
+#Triangle
+12 17 10
+48 -60
+#Rect
+1 17
+-74 22
+#Circle
+2
+65 63
+#Triangle
+15 12 19
+47 -13
+#Rect
+3 10
+91 1
+#Circle
+5
+-97 -83
+#Triangle
+10 14 18
+-69 27
+#Rect
+12 14
+-38 -36
+#Circle
+10
+81 11
+#Triangle
+17 18 8
+95 47
+#Rect
+9 16
+40 44
+#Circle
+3
+36 -33
+#Triangle
+11 15 14
+87 74
+#Rect
+11 19
+-80 10
+#Circle
+7
+-3 -88
+#Triangle
+16 12 8
+31 8
+#Rect
+10 15
+6 82
+#Circle
+6
+-73 61
+#Triangle
+12 20 21
+37 91
+#Rect
+9 13
+9 53
+#Circle
+8
+58 39
+#Triangle
+11 12 16
+6 -74
+#Rect
+10 20
+18 80
+#Circle
+8
+-9 -86
+#Triangle
+1 15 15
+96 -4
+#Rect
+4 11
+-9 78
+#Circle
+6
+-32 41
+#Triangle
+9 6 12
+92 54
+#Rect
+4 19
+-2 91
+#Circle
+10
+81 -67
+#Triangle
+16 19 16
+5 -73
+#Rect
+12 17
+57 32
+#Circle
+4
+52 -92
+#Triangle
+12 8 11
+89 70
+#Rect
+0 13
+-97 99
+#Circle
+5
+-76 -67
+#Triangle
+18 16 13
+-18 14
+#Rect
+0 12
+-20 -4
+#Circle
+10
+-65 62
+#Triangle
+15 12 25
+100 -38
+#Rect
+7 15
+86 37
+#Circle
+5
+-13 -49
+#Triangle
+18 16 26
+-69 -15
+#Rect
+0 15
+20 35
+#Circle
+10
+-37 -67
+#Triangle
+15 8 21
+76 46
+#Rect
+16 17
+73 86
+#Circle
+10
+-73 10
+#Triangle
+13 6 14
+-100 11
+#Rect
+2 12
+-37 73
+#Circle
+10
+-21 1
+#Triangle
+5 17 19
+-75 32
+#Rect
+6 12
+98 -92
+#Circle
+5
+-72 -34
+#Triangle
+14 15 6
+22 97
+#Rect
+2 3
+40 32
+#Circle
+1
+-56 -73
+#Triangle
+15 19 19
+12 0
+#Rect
+5 13
+-87 42
+#Circle
+10
+-24 69
+#Triangle
+8 4 8
+86 -3
+#Rect
+3 9
+74 -57
+#Circle
+9
+-63 17
+#Triangle
+2 16 16
+84 -48
+#Rect
+1 17
+78 -41
+#Circle
+7
+30 -60
+#Triangle
+18 15 16
+-65 -79
+#Rect
+4 19
+-40 85
+#Circle
+9
+9 34
+#Triangle
+9 3 9
+-42 75
+#Rect
+1 19
+71 20
+#Circle
+4
+-63 77
+#Triangle
+10 10 16
+35 49
+#Rect
+14 17
+44 -18
+#Circle
+1
+-94 -37
+#Triangle
+8 19 24
+-75 95
+#Rect
+3 14
+-68 5
+#Circle
+5
+28 -19
+#Triangle
+14 9 13
+11 -53
+#Rect
+7 11
+-35 96
+#Circle
+3
+73 -1
+#Triangle
+15 18 25
+-16 -33
+#Rect
+3 7
+-58 37
+#Circle
+5
+-18 45
+#Triangle
+8 11 8
+14 19
+#Rect
+5 20
+32 86
+#Circle
+6
+59 -65
+#Triangle
+4 14 17
+-22 -58
+#Rect
+7 14
+-28 61
+#Circle
+5
+-71 -66
+#Triangle
+13 2 13
+-85 44
+#Rect
+11 15
+-29 97
+#Circle
+8
+-59 -61
+#Triangle
+2 9 8
+-38 82
+#Rect
+5 20
+25 48
+#Circle
+7
+90 46
+#Triangle
+9 14 14
+3 5
+#Rect
+10 18
+30 68
+#Circle
+10
+26 -68
+#Triangle
+8 16 23
+-45 -28
+#Rect
+19 20
+-88 36
+#Circle
+4
+38 -21
+#Triangle
+9 16 14
+11 26
+#Rect
+7 13
+-38 58
+#Circle
+6
+-62 1
+#Triangle
+16 10 18
+69 -90
+#Rect
+0 3
+-81 -31
+#Circle
+9
+-76 -83
+#Triangle
+18 11 11
+98 -6
+#Rect
+1 10
+-6 -100
+#Circle
+2
+-77 92
+#Triangle
+16 19 15
+-41 94
+#Rect
+13 16
+2 95
+#Circle
+6
+37 -51
+#Triangle
+14 7 16
+25 -24
+#Rect
+1 16
+-15 -19
+#Circle
+2
+-98 89
+#Triangle
+14 14 1
+29 -38
+#Rect
+5 9
+-41 60
+#Circle
+3
+7 93
+#Triangle
+14 8 11
+-93 -39
+#Rect
+15 16
+-94 14
+#Circle
+0
+-28 -31
+#Triangle
+16 20 32
+-71 -92
+#Rect
+1 11
+-93 -4
+#Circle
+9
+26 -74
+#Triangle
+5 14 13
+-28 -5
+#Rect
+1 15
+-73 16
+#Circle
+3
+-12 -88
+#Triangle
+16 15 18
+45 -73
+#Rect
+6 16
+50 94
+#Circle
+10
+76 8
+#Triangle
+11 17 26
+-63 -28
+#Rect
+5 20
+31 -56
+#Circle
+4
+83 -62
+#Triangle
+15 16 30
+96 -65
+#Rect
+13 15
+-39 8
+#Circle
+0
+73 -93
+#Triangle
+10 9 3
+90 94
+#Rect
+1 5
+-87 65
+#Circle
+6
+-11 50
+#Triangle
+15 20 6
+-1 85
+#Rect
+17 18
+37 -84
+#Circle
+0
+-88 45
+#Triangle
+10 10 8
+38 -37
+#Rect
+4 9
+-91 14
+#Circle
+10
+6 54
+#Triangle
+12 13 23
+-25 84
+#Rect
+1 11
+-79 -21
+#Circle
+0
+64 91
+#Triangle
+3 10 9
+-3 50
+#Rect
+2 2
+96 58
+#Circle
+2
+22 -30
+#Triangle
+11 13 12
+-23 76
+#Rect
+7 20
+-51 -28
+#Circle
+9
+-54 4
+#Triangle
+10 11 15
+17 -26
+#Rect
+5 9
+93 -2
+#Circle
+10
+26 -24
+#Triangle
+19 5 17
+49 -8
+#Rect
+0 11
+1 -86
+#Circle
+9
+56 -26
+#Triangle
+19 20 21
+-20 -80
+#Rect
+4 15
+-87 -45
+#Circle
+6
+-35 -96
+#Triangle
+15 20 23
+85 -43
+#Rect
+4 9
+62 83
+#Circle
+7
+-94 79
+#Triangle
+2 13 12
+-88 39
+#Rect
+12 20
+85 -43
+#Circle
+3
+-54 -22
+#Triangle
+18 16 12
+-37 93
+#Rect
+1 13
+12 -21
+#Circle
+10
+80 88
+#Triangle
+12 14 10
+-86 77
+#Rect
+12 15
+76 -76
+#Circle
+10
+-20 -29
+#Triangle
+11 5 8
+-41 39
+#Rect
+11 12
+-2 -48
+#Circle
+10
+76 -75
+#Triangle
+8 18 15
+-13 -76
+#Rect
+15 16
+23 58
+#Circle
+7
+91 86
+#Triangle
+9 8 10
+81 28
+#Rect
+2 5
+5 -77
+#Circle
+5
+-70 81
+#Triangle
+19 14 30
+58 61
+#Rect
+5 19
+31 -35
+#Circle
+10
+-22 1
+#Triangle
+20 20 3
+-96 -2
+#Rect
+10 10
+44 64
+#Circle
+8
+12 1
+#Triangle
+16 15 6
+54 -37
+#Rect
+9 13
+40 48
+#Circle
+2
+-98 88
+#Triangle
+9 15 12
+63 22
+#Rect
+6 6
+54 -25
+#Circle
+7
+-70 49
+#Triangle
+16 10 9
+98 -33
+#Rect
+9 10
+-41 -82
+#Circle
+4
+-6 -46
+#Triangle
+18 5 17
+-26 -24
+#Rect
+2 17
+33 -62
+#Circle
+4
+-18 38
+#Triangle
+7 19 16
+57 -80
+#Rect
+0 14
+92 56
+#Circle
+8
+-87 85
+#Triangle
+10 7 8
+-69 -80
+#Rect
+7 9
+0 -26
+#Circle
+10
+58 -100
+#Triangle
+14 20 33
+75 -83
+#Rect
+12 19
+97 -79
+#Circle
+2
+67 55
+#Triangle
+16 13 25
+-94 100
+#Rect
+0 1
+-3 55
+#Circle
+3
+-15 56
+#Triangle
+14 6 16
+-96 38
+#Rect
+11 17
+-61 -68
+#Circle
+3
+-70 75
+#Triangle
+12 20 21
+-9 92
+#Rect
+4 5
+59 76
+#Circle
+1
+-74 87
+#Triangle
+8 18 19
+-55 1
+#Rect
+3 10
+-49 6
+#Circle
+4
+-62 -5
+#Triangle
+15 16 21
+-22 68
+#Rect
+6 8
+-6 -71
+#Circle
+2
+55 -17
+#Triangle
+4 17 14
+45 70
+#Rect
+0 20
+-74 42
+#Circle
+7
+3 -68
+#Triangle
+19 9 23
+-1 -52
+#Rect
+13 17
+69 -89
+#Circle
+10
+0 74
+#Triangle
+18 6 22
+-17 -72
+#Rect
+0 9
+70 44
+#Circle
+3
+81 51
+#Triangle
+17 17 10
+-96 96
+#Rect
+3 5
+-54 47
+#Circle
+4
+25 -50
+#Triangle
+20 10 27
+-12 93
+#Rect
+4 20
+-54 11
+#Circle
+6
+63 -71
+#Triangle
+8 18 21
+-28 -16
+#Rect
+1 12
+-63 80
+#Circle
+4
+-91 73
+#Triangle
+17 15 23
+49 -82
+#Rect
+9 20
+-3 100
+#Circle
+9
+-15 55
+#Triangle
+5 3 3
+89 -66
+#Rect
+11 20
+51 41
+#Circle
+6
+50 -51
+#Triangle
+10 13 10
+91 -4
+#Rect
+0 20
+30 71
+#Circle
+5
+57 19
+#Triangle
+8 7 14
+-48 72
+#Rect
+4 11
+-92 -16
+#Circle
+1
+-18 -78
+#Triangle
+17 15 20
+-78 10
+#Rect
+17 20
+45 84
+#Circle
+0
+-23 55
+#Triangle
+9 14 14
+-92 -81
+#Rect
+2 18
+77 -4
+#Circle
+6
+47 -79
+#Triangle
+14 15 25
+19 81
+#Rect
+2 19
+50 77
+#Circle
+1
+-17 71
+#Triangle
+13 13 21
+-3 2
+#Rect
+1 8
+-55 -5
+#Circle
+2
+57 31
+#Triangle
+17 12 14
+-57 -39
+#Rect
+7 19
+33 91
+#Circle
+9
+70 74
+#Triangle
+16 12 16
+-84 -33
+#Rect
+3 9
+-93 -22
+#Circle
+5
+-20 22
+#Triangle
+15 2 16
+-65 34
+#Rect
+8 16
+-32 -25
+#Circle
+2
+82 -57
+#Triangle
+18 15 23
+84 61
+#Rect
+4 15
+48 45
+#Circle
+4
+-45 8
+#Triangle
+5 18 14
+37 -79
+#Rect
+2 6
+95 44
+#Circle
+8
+1 15
+#Triangle
+12 10 3
+-36 9
+#Rect
+14 20
+-89 -79
+#Circle
+9
+79 22
+#Triangle
+3 2 3
+55 -22
+#Rect
+4 16
+77 -57
+#Circle
+5
+-65 -95
+#Triangle
+18 9 13
+43 49
+#Rect
+9 17
+-29 54
+#Circle
+9
+16 44
+#Triangle
+4 11 13
+-95 -76
+#Rect
+14 17
+70 47
+#Circle
+10
+43 -8
+#Triangle
+19 17 16
+30 70
+#Rect
+1 10
+-17 14
+#Circle
+1
+90 -93
+#Triangle
+8 10 12
+-85 -41
+#Rect
+7 14
+43 4
+#Circle
+7
+-49 -41
+#Triangle
+15 11 22
+-35 -12
+#Rect
+11 16
+26 78
+#Circle
+0
+-19 43
+#Triangle
+10 6 6
+-34 -63
+#Rect
+10 14
+-8 3
+#Circle
+7
+-91 -95
+#Triangle
+20 15 12
+-90 5
+#Rect
+0 0
+-95 -27
+#Circle
+2
+-33 96
+#Triangle
+13 8 20
+-64 32
+#Rect
+11 16
+-31 -3
+#Circle
+4
+45 2
+#Triangle
+11 9 6
+35 -44
+#Rect
+12 15
+-16 -49
+#Circle
+9
+100 -40
+#Triangle
+16 19 14
+36 36
+#Rect
+0 7
+-98 -57
+#Circle
+7
+-81 26
+#Triangle
+9 20 23
+81 27
+#Rect
+3 7
+55 11
+#Circle
+5
+91 -93
+#Triangle
+12 12 18
+-49 24
+#Rect
+3 12
+-38 35
+#Circle
+10
+-47 -43
+#Triangle
+7 10 13
+44 -72
+#Rect
+3 17
+92 80
+#Circle
+6
+-89 -90
+#Triangle
+12 16 20
+94 23
+#Rect
+2 19
+8 -4
+#Circle
+3
+-5 -25
+#Triangle
+19 10 22
+-3 -89
+#Rect
+0 17
+86 -53
+#Circle
+3
+-91 60
+#Triangle
+12 13 14
+-32 -65
+#Rect
+16 20
+91 -71
+#Circle
+8
+-25 8
+#Triangle
+4 8 11
+30 71
+#Rect
+13 16
+11 -92
+#Circle
+7
+6 76
+#Triangle
+19 7 20
+-80 -50
+#Rect
+19 19
+92 -50
+#Circle
+7
+-51 -86
+#Triangle
+6 11 16
+7 -12
+#Rect
+6 19
+-63 20
+#Circle
+1
+-22 96
+#Triangle
+14 3 12
+18 39
+#Rect
+2 7
+48 46
+#Circle
+6
+45 91
+#Triangle
+14 6 10
+-5 80
+#Rect
+2 16
+-39 -57
+#Circle
+6
+-54 47
+#Triangle
+8 12 15
+-26 -85
+#Rect
+10 16
+46 -95
+#Circle
+4
+7 39
+#Triangle
+14 16 15
+-53 60
+#Rect
+13 20
+2 -95
+#Circle
+2
+-30 34
+#Triangle
+3 17 18
+-50 20
+#Rect
+7 16
+96 -48
+#Circle
+8
+-87 -60
+#Triangle
+9 17 16
+-20 -73
+#Rect
+10 13
+14 -31
+#Circle
+1
+-75 0
+#Triangle
+20 20 25
+75 22
+#Rect
+18 20
+46 99
+#Circle
+2
+13 -46
+#Triangle
+8 7 9
+-36 -80
+#Rect
+4 18
+-93 22
+#Circle
+1
+60 -26
+#Triangle
+3 11 9
+-76 -57
+#Rect
+11 14
+71 -16
+#Circle
+9
+94 63
+#Triangle
+11 12 3
+16 17
+#Rect
+11 11
+-62 29
+#Circle
+4
+31 0
+#Triangle
+6 4 4
+66 -53
+#Rect
+0 14
+15 -7
+#Circle
+4
+15 -46
+#Triangle
+10 10 16
+-16 -48
+#Rect
+12 19
+53 60
+#Circle
+3
+-68 -91
+#Triangle
+18 6 18
+-26 -38
+#Rect
+6 9
+-3 -59
+#Circle
+4
+70 63
+#Triangle
+8 9 11
+-92 50
+#Rect
+14 14
+9 -69
+#Circle
+10
+-17 34
+#Triangle
+3 16 14
+34 96
+#Rect
+2 9
+-18 -98
+#Circle
+9
+18 -20
+#Triangle
+9 18 17
+-100 44
+#Rect
+9 18
+54 -62
+#Circle
+10
+-48 100
+#Triangle
+8 5 11
+-68 91
+#Rect
+12 13
+-58 -31
+#Circle
+4
+41 14
+#Triangle
+15 7 10
+-25 -30
+#Rect
+8 20
+47 -69
+#Circle
+8
+-79 -75
+#Triangle
+14 14 14
+-96 -29
+#Rect
+0 20
+-58 -86
+#Circle
+7
+8 -54
+#Triangle
+19 6 17
+-59 87
+#Rect
+16 20
+-66 -43
+#Circle
+1
+-61 9
+#Triangle
+10 1 10
+41 -27
+#Rect
+1 4
+91 43
+#Circle
+5
+44 28
+#Triangle
+12 18 29
+-93 -16
+#Rect
+7 9
+38 14
+#Circle
+7
+-56 -10
+#Triangle
+6 11 12
+-45 60
+#Rect
+10 17
+20 56
+#Circle
+4
+11 -3
+#Triangle
+11 11 6
+-20 -54
+#Rect
+1 17
+45 -30
+#Circle
+1
+23 27
+#Triangle
+18 7 20
+59 10
+#Rect
+5 20
+-19 -29
+#Circle
+4
+-44 -6
+#Triangle
+16 20 25
+-13 49
+#Rect
+5 14
+70 -11
+#Circle
+7
+39 38
+#Triangle
+4 7 4
+-53 -87
+#Rect
+6 9
+43 -55
+#Circle
+9
+33 -98
+#Triangle
+13 8 19
+-23 62
+#Rect
+6 19
+-100 36
+#Circle
+6
+21 47
+#Triangle
+6 9 7
+-36 -46
+#Rect
+5 16
+-33 66
+#Circle
+5
+-65 78
+#Triangle
+2 4 3
+-67 70
+#Rect
+2 3
+-4 -19
+#Circle
+5
+85 -84
+#Triangle
+10 4 11
+-98 -69
+#Rect
+16 20
+-44 -77
+#Circle
+6
+-52 -13
+#Triangle
+6 18 13
+92 -95
+#Rect
+17 17
+33 58
+#Circle
+7
+-75 -14
+#Triangle
+12 10 5
+22 -56
+#Rect
+3 7
+78 38
+#Circle
+1
+3 88
+#Triangle
+10 16 8
+-43 -20
+#Rect
+3 5
+59 10
+#Circle
+10
+52 16
+#Triangle
+16 5 16
+-6 -85
+#Rect
+11 19
+8 -36
+#Circle
+2
+-76 65
+#Triangle
+15 7 15
+-14 -88
+#Rect
+0 3
+-97 97
+#Circle
+8
+28 -1
+#Triangle
+9 20 15
+-64 46
+#Rect
+14 19
+-57 68
+#Circle
+2
+-14 100
+#Triangle
+11 2 11
+-36 -58
+#Rect
+12 14
+2 39
+#Circle
+8
+-2 -80
+#Triangle
+13 18 29
+69 -58
+#Rect
+11 14
+42 17
+#Circle
+9
+49 -96
+#Triangle
+16 11 8
+93 94
+#Rect
+3 7
+15 -20
+#Circle
+8
+11 83
+#Triangle
+4 10 13
+-10 -96
+#Rect
+12 14
+75 -37
+#Circle
+0
+86 20
+#Triangle
+16 10 13
+-6 -29
+#Rect
+12 19
+24 70
+#Circle
+1
+3 -64
+#Triangle
+19 8 23
+0 -97
+#Rect
+5 14
+-58 62
+#Circle
+10
+75 -40
+#Triangle
+18 20 30
+-86 -72
+#Rect
+0 3
+73 42
+#Circle
+4
+-40 83
+#Triangle
+15 19 16
+-44 40
+#Rect
+2 9
+72 -68
+#Circle
+3
+-56 22
+#Triangle
+8 7 5
+-33 36
+#Rect
+4 7
+-50 -16
+#Circle
+10
+44 -17
+#Triangle
+12 16 18
+24 34
+#Rect
+9 15
+0 17
+#Circle
+6
+50 3
+#Triangle
+20 11 24
+24 52
+#Rect
+16 19
+60 -25
+#Circle
+4
+-69 -94
+#Triangle
+12 7 16
+-23 31
+#Rect
+19 20
+41 -79
+#Circle
+9
+-33 -70
+#Triangle
+17 14 18
+35 -87
+#Rect
+10 16
+71 -12
+#Circle
+5
+-94 -26
+#Triangle
+15 7 14
+-2 15
+#Rect
+6 7
+85 33
+#Circle
+0
+48 -80
+#Triangle
+20 18 22
+-11 55
+#Rect
+0 5
+-42 -74
+#Circle
+2
+53 -55
+#Triangle
+1 3 3
+12 23
+#Rect
+10 17
+32 -85
+#Circle
+1
+96 60
+#Triangle
+12 9 14
+20 16
+#Rect
+9 14
+-20 5
+#Circle
+10
+92 -64
+#Triangle
+20 5 20
+-98 -11
+#Rect
+2 4
+-28 -89
+#Circle
+8
+35 -70
+#Triangle
+18 16 5
+100 46
+#Rect
+9 11
+48 42
+#Circle
+10
+96 -72
+#Triangle
+6 10 14
+-63 -68
+#Rect
+3 13
+-78 -8
+#Circle
+4
+2 65
+#Triangle
+10 16 23
+55 -5
+#Rect
+1 4
+84 63
+#Circle
+8
+98 25
+#Triangle
+14 10 23
+-67 -99
+#Rect
+12 18
+-55 1
+#Circle
+5
+39 82
+#Triangle
+17 12 12
+77 -63
+#Rect
+11 19
+-87 13
+#Circle
+7
+-94 -5
+#Triangle
+13 19 12
+-37 2
+#Rect
+3 19
+84 89
+#Circle
+5
+-93 -9
+#Triangle
+2 16 15
+28 -20
+#Rect
+13 17
+-30 48
+#Circle
+3
+-50 6
+#Triangle
+10 7 5
+11 -25
+#Rect
+2 15
+-71 -62
+#Circle
+7
+-59 -33
+#Triangle
+10 12 5
+93 59
+#Rect
+0 5
+53 -85
+#Circle
+0
+30 -73
+#Triangle
+12 18 29
+-53 -49
+#Rect
+3 9
+47 -33
+#Circle
+10
+88 -35
+#Triangle
+7 18 12
+-26 -100
+#Rect
+3 8
+-60 93
+#Circle
+1
+-6 35
+#Triangle
+16 5 17
+-12 92
+#Rect
+11 20
+-44 85
+#Circle
+9
+-24 71
+#Triangle
+2 3 3
+58 29
+#Rect
+8 9
+63 -96
+#Circle
+1
+12 -5
+#Triangle
+13 9 8
+-41 -21
+#Rect
+7 12
+55 64
+#Circle
+4
+-97 -68
+#Triangle
+12 14 25
+-95 41
+#Rect
+1 19
+-92 88
+#Circle
+7
+-26 7
+#Triangle
+9 4 7
+-18 53
+#Rect
+2 8
+43 46
+#Circle
+0
+-9 71
+#Triangle
+15 7 21
+74 -1
+#Rect
+2 18
+-93 44
+#Circle
+4
+67 -77
+#Triangle
+17 7 13
+20 96
+#Rect
+10 11
+48 15
+#Circle
+0
+-16 -43
+#Triangle
+4 4 4
+-10 90
+#Rect
+14 16
+-74 2
+#Circle
+9
+-44 92
+#Triangle
+9 1 9
+-62 43
+#Rect
+3 11
+5 89
+#Circle
+1
+57 67
+#Triangle
+16 2 16
+4 85
+#Rect
+6 12
+-73 97
+#Circle
+8
+30 79
+#Triangle
+13 8 7
+-77 1
+#Rect
+4 15
+40 63
+#Circle
+3
+75 -21
+#Triangle
+15 13 27
+-94 -29
+#Rect
+4 5
+-74 62
+#Circle
+8
+71 73
+#Triangle
+16 8 17
+56 25
+#Rect
+0 6
+1 -36
+#Circle
+7
+72 -66
+#Triangle
+6 18 16
+-3 -92
+#Rect
+1 2
+99 58
+#Circle
+8
+47 -4
+#Triangle
+20 14 23
+11 -42
+#Rect
+7 10
+1 -36
+#Circle
+10
+-20 -55
+#Triangle
+12 17 13
+-55 54
+#Rect
+1 19
+8 52
+#Circle
+2
+-13 -48
+#Triangle
+15 6 10
+37 73
+#Rect
+7 10
+8 -25
+#Circle
+9
+-22 -5
+#Triangle
+13 17 27
+-21 75
+#Rect
+2 13
+-27 92
+#Circle
+2
+-28 54
+#Triangle
+8 10 9
+-11 47
+#Rect
+6 17
+86 29
+#Circle
+3
+-83 65
+#Triangle
+7 12 7
+3 -47
+#Rect
+12 19
+-83 -32
+#Circle
+10
+66 -22
+#Triangle
+2 3 2
+41 -86
+#Rect
+14 17
+71 51
+#Circle
+6
+100 59
+#Triangle
+8 17 21
+29 -43
+#Rect
+1 12
+79 -84
+#Circle
+0
+-88 74
+#Triangle
+11 13 3
+28 -14
+#Rect
+11 20
+-68 -23
+#Circle
+5
+-25 -14
+#Triangle
+17 12 19
+-5 -92
+#Rect
+11 16
+-80 3
+#Circle
+5
+95 32
+#Triangle
+5 6 9
+-12 -7
+#Rect
+15 20
+67 57
+#Circle
+4
+30 29
+#Triangle
+3 4 5
+-10 6
+#Rect
+5 14
+-11 -35
+#Circle
+6
+-15 -98
+#Triangle
+17 15 3
+-42 74
+#Rect
+5 14
+-14 -71
+#Circle
+6
+98 9
+#Triangle
+4 4 4
+78 -73
+#Rect
+5 12
+43 -34
+#Circle
+2
+53 1
+#Triangle
+19 19 5
+18 96
+#Rect
+3 3
+-45 -90
+#Circle
+5
+-16 -26
+#Triangle
+20 16 24
+-64 44
+#Rect
+9 15
+-80 65
+#Circle
+1
+74 97
+#Triangle
+7 11 14
+16 -20
+#Rect
+8 20
+38 98
+#Circle
+2
+60 11
+#Triangle
+11 13 9
+96 -64
+#Rect
+8 12
+-84 87
+#Circle
+10
+77 -77
+#Triangle
+4 14 16
+-76 -87
+#Rect
+3 8
+-87 -28
+#Circle
+6
+9 54
+#Triangle
+19 9 18
+40 81
+#Rect
+8 10
+44 -11
+#Circle
+0
+91 31
+#Triangle
+11 17 25
+-5 89
+#Rect
+3 12
+65 -48
+#Circle
+1
+57 -36
+#Triangle
+8 2 8
+-60 -27
+#Rect
+6 11
+91 14
+#Circle
+5
+38 62
+#Triangle
+6 7 9
+18 43
+#Rect
+10 17
+-45 -88
+#Circle
+6
+10 -43
+#Triangle
+19 12 24
+-57 13
+#Rect
+7 12
+62 -1
+#Circle
+5
+73 -40
+#Triangle
+16 17 14
+56 -35
+#Rect
+2 11
+-30 -82
+#Circle
+7
+86 33
+#Triangle
+19 8 19
+-65 -25
+#Rect
+4 15
+-71 4
+#Circle
+3
+-62 -44
+#Triangle
+7 10 16
+56 93
+#Rect
+1 6
+-47 -79
+#Circle
+0
+-92 45
+#Triangle
+13 18 16
+-90 -54
+#Rect
+2 17
+48 72
+#Circle
+10
+-8 82
+#Triangle
+10 17 10
+-88 2
+#Rect
+10 17
+-61 44
+#Circle
+7
+-48 39
+#Triangle
+16 10 25
+-24 55
+#Rect
+4 11
+-76 -19
+#Circle
+7
+10 -97
+#Triangle
+16 13 16
+-27 66
+#Rect
+6 6
+-22 -81
+#Circle
+5
+44 39
+#Triangle
+10 9 9
+94 -4
+#Rect
+2 5
+62 -74
+#Circle
+8
+66 46
+#Triangle
+8 16 11
+32 -93
+#Rect
+9 17
+-79 28
+#Circle
+4
+-62 47
+#Triangle
+13 9 21
+-37 -42
+#Rect
+3 11
+-75 -11
+#Circle
+10
+24 -87
+#Triangle
+17 13 5
+15 -18
+#Rect
+7 16
+-93 52
+#Circle
+5
+23 60
+#Triangle
+12 20 18
+-97 -97
+#Rect
+11 13
+65 41
+#Circle
+6
+75 69
+#Triangle
+10 12 15
+-63 13
+#Rect
+1 16
+-16 49
+#Circle
+9
+100 -3
+#Triangle
+18 14 8
+-14 19
+#Rect
+9 16
+-48 -29
+#Circle
+8
+-59 62
+#Triangle
+2 4 4
+-10 -3
+#Rect
+2 3
+80 42
+#Circle
+1
+96 -34
+#Triangle
+16 2 15
+49 -37
+#Rect
+3 9
+-100 -56
+#Circle
+5
+-51 27
+#Triangle
+5 12 14
+-6 -67
+#Rect
+2 9
+8 -52
+#Circle
+3
+-33 -97
+#Triangle
+12 4 9
+-55 -9
+#Rect
+10 15
+-57 -55
+#Circle
+9
+67 98
+#Triangle
+10 12 15
+18 -53
+#Rect
+1 2
+42 -58
+#Circle
+8
+89 -10
+#Triangle
+18 5 21
+-21 68
+#Rect
+1 16
+79 -27
+#Circle
+6
+-55 -33
+#Triangle
+8 6 12
+14 -47
+#Rect
+5 13
+40 90
+#Circle
+3
+63 7
+#Triangle
+8 20 26
+-19 -83
+#Rect
+3 14
+68 44
+#Circle
+6
+54 -81
+#Triangle
+9 8 3
+-64 -5
+#Rect
+17 20
+13 64
+#Circle
+1
+-58 24
+#Triangle
+16 10 16
+0 88
+#Rect
+0 3
+88 52
+#Circle
+3
+-24 18
+#Triangle
+19 20 19
+20 -26
+#Rect
+6 16
+13 -72
+#Circle
+6
+-21 -35
+#Triangle
+2 9 8
+-60 85
+#Rect
+14 19
+-11 -52
+#Circle
+4
+41 85
+#Triangle
+16 8 14
+58 3
+#Rect
+7 16
+-31 36
+#Circle
+5
+51 49
+#Triangle
+18 13 24
+-99 -43
+#Rect
+4 20
+49 51
+#Circle
+6
+54 40
+#Triangle
+6 4 9
+-14 -34
+#Rect
+5 20
+75 24
+#Circle
+0
+95 63
+#Triangle
+13 8 12
+-38 38
+#Rect
+8 14
+24 -19
+#Circle
+9
+27 -49
+#Triangle
+11 14 18
+33 -88
+#Rect
+15 19
+60 -64
+#Circle
+10
+2 -76
+#Triangle
+9 5 12
+-38 -5
+#Rect
+7 13
+-77 -64
+#Circle
+9
+-8 49
+#Triangle
+3 4 4
+-3 51
+#Rect
+4 5
+-62 -95
+#Circle
+7
+22 41
+#Triangle
+19 19 19
+-36 40
+#Rect
+11 20
+42 -100
+#Circle
+7
+-2 79
+#Triangle
+17 18 27
+-84 -28
+#Rect
+2 5
+-17 85
+#Circle
+3
+-78 51
+#Triangle
+10 17 12
+85 -22
+#Rect
+11 12
+85 10
+#Circle
+6
+47 32
+#Triangle
+12 14 10
+41 46
+#Rect
+19 19
+-64 -99
+#Circle
+7
+-47 24
+#Triangle
+12 19 15
+33 -16
+#Rect
+9 20
+85 46
+#Circle
+8
+-47 91
+#Triangle
+12 13 2
+-26 6
+#Rect
+7 14
+-31 19
+#Circle
+8
+-26 12
+#Triangle
+19 16 18
+93 -27
+#Rect
+3 7
+-32 33
+#Circle
+2
+38 -7
+#Triangle
+3 13 12
+13 9
+#Rect
+0 16
+12 -21
+#Circle
+5
+68 100
+#Triangle
+18 3 16
+-47 24
+#Rect
+13 17
+-32 -93
+#Circle
+1
+-9 66
+#Triangle
+12 4 12
+66 -30
+#Rect
+6 19
+86 -77
+#Circle
+10
+92 84
+#Triangle
+14 18 16
+80 57
+#Rect
+3 4
+77 85
+#Circle
+3
+-47 -60
+#Triangle
+20 19 28
+-7 -98
+#Rect
+9 10
+-6 11
+#Circle
+10
+62 -60
+#Triangle
+12 20 10
+32 90
+#Rect
+0 12
+-27 -28
+#Circle
+0
+17 3
+#Triangle
+17 8 20
+62 78
+#Rect
+14 16
+-8 -19
+#Circle
+0
+-63 10
+#Triangle
+8 16 9
+-47 72
+#Rect
+3 7
+78 -72
+#Circle
+4
+-92 -31
+#Triangle
+14 15 19
+-11 -17
+#Rect
+12 12
+-53 42
+#Circle
+3
+78 -51
+#Triangle
+16 15 29
+63 -89
+#Rect
+2 8
+-17 -97
+#Circle
+6
+81 -9
+#Triangle
+15 17 13
+-33 -43
+#Rect
+11 17
+-87 52
+#Circle
+7
+-86 31
+#Triangle
+18 14 8
+58 -31
+#Rect
+1 11
+-72 16
+#Circle
+5
+-50 -95
+#Triangle
+11 11 20
+35 -91
+#Rect
+8 15
+86 -38
+#Circle
+4
+82 64
+#Triangle
+12 11 4
+15 -61
+#Rect
+11 17
+40 -79
+#Circle
+2
+-47 -89
+#Triangle
+16 9 18
+92 55
+#Rect
+2 13
+-34 41
+#Circle
+3
+95 -1
+#Triangle
+5 3 6
+17 28
+#Rect
+17 20
+99 24
+#Circle
+3
+63 85
+#Triangle
+9 20 25
+-9 -72
+#Rect
+13 14
+-18 -75
+#Circle
+7
+-94 82
+#Triangle
+16 16 17
+-58 -71
+#Rect
+1 2
+-47 96
+#Circle
+4
+-33 -28
+#Triangle
+10 11 9
+86 70
+#Rect
+13 17
+-49 78
+#Circle
+3
+49 53
+#Triangle
+9 2 9
+77 -74
+#Rect
+2 19
+70 10
+#Circle
+0
+-40 52
+#Triangle
+4 4 1
+-19 -26
+#Rect
+4 18
+-16 80
+#Circle
+8
+-28 25
+#Triangle
+10 7 8
+69 61
+#Rect
+0 16
+-18 88
+#Circle
+3
+3 6
+#Triangle
+15 19 23
+-9 -55
+#Rect
+1 4
+-14 99
+#Circle
+4
+-23 -49
+#Triangle
+10 6 6
+-73 -48
+#Rect
+1 16
+-98 -99
+#Circle
+9
+-85 -54
+#Triangle
+9 15 12
+69 -93
+#Rect
+12 15
+23 74
+#Circle
+7
+64 21
+#Triangle
+11 17 16
+73 35
+#Rect
+2 13
+19 -35
+#Circle
+3
+48 -36
+#Triangle
+15 12 26
+-73 -14
+#Rect
+10 13
+-59 93
+#Circle
+6
+3 -49
+#Triangle
+12 20 23
+12 31
+#Rect
+9 19
+30 -1
+#Circle
+6
+-63 -26
+#Triangle
+6 12 17
+87 -6
+#Rect
+15 16
+16 66
+#Circle
+5
+74 79
+#Triangle
+13 10 5
+1 73
+#Rect
+3 7
+-97 -37
+#Circle
+4
+95 15
+#Triangle
+4 9 12
+-37 -57
+#Rect
+5 10
+29 -80
+#Circle
+3
+-14 4
+#Triangle
+8 4 7
+-99 80
+#Rect
+0 13
+30 4
+#Circle
+8
+-78 62
+#Triangle
+5 7 9
+66 45
+#Rect
+5 20
+74 37
+#Circle
+10
+61 -94
+#Triangle
+17 6 22
+72 -83
+#Rect
+5 18
+33 -68
+#Circle
+10
+-95 51
+#Triangle
+20 17 9
+-55 36
+#Rect
+9 14
+-59 -83
+#Circle
+8
+27 60
+#Triangle
+18 11 24
+39 -47
+#Rect
+5 9
+-9 78
+#Circle
+5
+-93 81
+#Triangle
+13 7 13
+-33 -66
+#Rect
+9 12
+82 74
+#Circle
+8
+91 -59
+#Triangle
+3 4 5
+-29 89
+#Rect
+9 18
+-16 50
+#Circle
+9
+-51 -15
+#Triangle
+13 10 17
+93 -57
+#Rect
+7 14
+42 30
+#Circle
+10
+-93 -52
+#Triangle
+7 6 11
+24 -80
+#Rect
+0 3
+-59 83
+#Circle
+1
+-39 -55
+#Triangle
+11 13 20
+-46 -44
+#Rect
+2 13
+-76 -92
+#Circle
+6
+52 -53
+#Triangle
+4 15 18
+45 -6
+#Rect
+4 5
+29 5
+#Circle
+0
+-77 19
+#Triangle
+10 18 12
+51 -65
+#Rect
+1 4
+14 20
+#Circle
+8
+-89 -1
+#Triangle
+12 17 11
+-10 74
+#Rect
+0 15
+16 -78
+#Circle
+4
+36 98
+#Triangle
+11 5 8
+-58 -38
+#Rect
+0 2
+36 -40
+#Circle
+3
+17 23
+#Triangle
+11 9 16
+-17 -51
+#Rect
+9 13
+-68 8
+#Circle
+3
+50 34
+#Triangle
+14 10 18
+-15 73
+#Rect
+12 17
+-67 39
+#Circle
+8
+39 -28
+#Triangle
+9 5 6
+-95 -98
+#Rect
+12 12
+13 48
+#Circle
+6
+-85 0
+#Triangle
+16 19 6
+-73 63
+#Rect
+9 10
+50 -61
+#Circle
+9
+-89 22
+#Triangle
+15 15 23
+27 25
+#Rect
+2 10
+-31 -14
+#Circle
+1
+86 73
+#Triangle
+17 7 19
+-55 49
+#Rect
+1 13
+-4 68
+#Circle
+4
+-79 36
+#Triangle
+17 6 22
+31 11
+#Rect
+8 10
+73 30
+#Circle
+2
+0 2
+#Triangle
+13 3 13
+-33 43
+#Rect
+0 19
+16 -4
+#Circle
+6
+72 59
+#Triangle
+7 3 7
+-47 15
+#Rect
+10 15
+-64 34
+#Circle
+10
+95 19
+#Triangle
+8 8 7
+-26 14
+#Rect
+0 3
+-77 -10
+#Circle
+0
+67 85
+#Triangle
+13 9 8
+80 67
+#Rect
+10 11
+-39 70
+#Circle
+6
+-86 -25
+#Triangle
+5 13 11
+6 -13
+#Rect
+8 15
+87 -91
+#Circle
+9
+-95 -56
+#Triangle
+18 15 7
+72 -9
+#Rect
+10 18
+-73 -89
+#Circle
+5
+88 -93
+#Triangle
+20 16 18
+-23 -32
+#Rect
+19 20
+49 96
+#Circle
+8
+68 2
+#Triangle
+9 12 7
+44 -65
+#Rect
+1 7
+-17 15
+#Circle
+6
+86 97
+#Triangle
+11 5 10
+-27 30
+#Rect
+1 7
+94 93
+#Circle
+5
+-45 -88
+#Triangle
+20 20 4
+-6 -25
+#Rect
+15 15
+-74 -36
+#Circle
+6
+-23 -92
+#Triangle
+5 10 9
+-9 2
+#Rect
+14 16
+2 -43
+#Circle
+10
+-83 52
+#Triangle
+7 17 21
+-12 -43
+#Rect
+5 12
+72 52
+#Circle
+0
+17 -99
+#Triangle
+17 16 5
+-79 80
+#Rect
+3 14
+-71 96
+#Circle
+9
+78 -70
+#Triangle
+8 19 20
+54 50
+#Rect
+8 10
+-22 -40
+#Circle
+10
+94 -78
+#Triangle
+11 6 16
+52 57
+#Rect
+1 18
+43 85
+#Circle
+5
+-7 41
+#Triangle
+11 11 14
+-8 41
+#Rect
+7 13
+84 -46
+#Circle
+10
+77 -81
+#Triangle
+10 5 12
+79 -92
+#Rect
+17 19
+58 -65
+#Circle
+5
+12 94
+#Triangle
+16 12 22
+94 19
+#Rect
+14 20
+45 64
+#Circle
+6
+6 -15
+#Triangle
+15 7 14
+-48 35
+#Rect
+1 16
+-42 55
+#Circle
+1
+37 27
+#Triangle
+13 13 1
+-44 30
+#Rect
+6 8
+-48 10
+#Circle
+9
+3 -18
+#Triangle
+13 1 13
+49 -29
+#Rect
+14 20
+96 44
+#Circle
+5
+75 46
+#Triangle
+18 12 17
+64 9
+#Rect
+2 3
+55 -62
+#Circle
+8
+76 99
+#Triangle
+19 13 27
+26 -96
+#Rect
+7 8
+17 -4
+#Circle
+2
+-66 76
+#Triangle
+4 2 3
+68 -29
+#Rect
+6 12
+35 66
+#Circle
+8
+53 91
+#Triangle
+7 7 4
+-81 -40
+#Rect
+14 18
+-7 -51
+#Circle
+0
+20 -11
+#Triangle
+20 16 24
+73 58
+#Rect
+4 14
+-15 88
+#Circle
+10
+52 62
+#Triangle
+20 14 8
+87 -4
+#Rect
+10 16
+-6 41
+#Circle
+2
+54 87
+#Triangle
+14 11 19
+1 34
+#Rect
+6 15
+-72 0
+#Circle
+1
+-40 50
+#Triangle
+6 10 15
+3 -44
+#Rect
+3 9
+-83 21
+#Circle
+6
+30 62
+#Triangle
+6 5 8
+87 47
+#Rect
+9 14
+-18 -79
+#Circle
+10
+-90 95
+#Triangle
+5 14 13
+-35 99
+#Rect
+9 16
+44 83
+#Circle
+4
+12 1
+#Triangle
+6 14 13
+-63 77
+#Rect
+1 17
+48 -40
+#Circle
+7
+69 2
+#Triangle
+17 4 17
+-19 100
+#Rect
+1 11
+-71 96
+#Circle
+1
+42 54
+#Triangle
+9 11 11
+-44 -24
+#Rect
+6 20
+-71 18
+#Circle
+6
+78 89
+#Triangle
+18 14 7
+2 28
+#Rect
+3 17
+12 79
+#Circle
+4
+-15 70
+#Triangle
+8 8 4
+24 -59
+#Rect
+4 11
+59 8
+#Circle
+1
+-41 -99
+#Triangle
+16 10 13
+-76 51
+#Rect
+5 6
+11 -79
+#Circle
+0
+-84 4
+#Triangle
+8 17 10
+75 -45
+#Rect
+6 10
+100 -48
+#Circle
+4
+2 -3
+#Triangle
+8 10 13
+89 -28
+#Rect
+3 12
+-14 63
+#Circle
+1
+-46 -73
+#Triangle
+12 14 22
+-22 22
+#Rect
+0 10
+-3 -95
+#Circle
+8
+-76 43
+#Triangle
+19 9 24
+-34 49
+#Rect
+8 20
+-11 79
+#Circle
+9
+46 38
+#Triangle
+10 18 18
+-64 14
+#Rect
+1 1
+-68 -5
+#Circle
+9
+42 67
+#Triangle
+12 19 18
+94 87
+#Rect
+2 5
+-39 -29
+#Circle
+6
+43 -83
+#Triangle
+11 5 8
+-90 -70
+#Rect
+6 12
+43 -82
+#Circle
+1
+15 -51
+#Triangle
+14 19 24
+-91 -4
+#Rect
+15 15
+61 100
+#Circle
+7
+-33 -96
+#Triangle
+19 12 12
+-19 -72
+#Rect
+9 14
+-29 -17
+#Circle
+8
+-82 -19
+#Triangle
+20 19 37
+-97 41
+#Rect
+7 17
+57 -3
+#Circle
+6
+44 45
+#Triangle
+16 16 19
+-11 -26
+#Rect
+10 17
+-9 68
+#Circle
+4
+-45 -52
+#Triangle
+8 18 24
+76 90
+#Rect
+8 16
+62 85
+#Circle
+4
+-97 -53
+#Triangle
+14 18 23
+-37 42
+#Rect
+7 14
+-5 -74
+#Circle
+6
+-47 -88
+#Triangle
+15 15 18
+-81 93
+#Rect
+3 13
+95 -76
+#Circle
+1
+16 50
+#Triangle
+17 9 11
+7 -9
+#Rect
+3 15
+89 70
+#Circle
+10
+38 95
+#Triangle
+6 12 9
+45 -87
+#Rect
+1 14
+29 -77
+#Circle
+4
+99 90
+#Triangle
+20 14 28
+56 -67
+#Rect
+1 19
+70 -16
+#Circle
+7
+52 65
+#Triangle
+5 6 3
+62 -76
+#Rect
+1 6
+-13 28
+#Circle
+8
+49 82
+#Triangle
+13 12 3
+32 53
+#Rect
+5 18
+83 -60
+#Circle
+1
+-13 3
+#Triangle
+6 9 10
+21 -38
+#Rect
+13 13
+2 11
+#Circle
+2
+-80 -38
+#Triangle
+11 16 16
+-36 64
+#Rect
+2 19
+1 -62
+#Circle
+10
+64 98
+#Triangle
+12 10 19
+18 87
+#Rect
+3 14
+-78 15
+#Circle
+10
+-43 -94
+#Triangle
+11 10 6
+20 -76
+#Rect
+15 16
+48 31
+#Circle
+10
+73 59
+#Triangle
+12 10 17
+51 -5
+#Rect
+1 2
+7 -35
+#Circle
+4
+70 39
+#Triangle
+16 16 15
+1 34
+#Rect
+7 16
+-61 -68
+#Circle
+10
+-31 10
+#Triangle
+11 20 25
+3 -57
+#Rect
+3 10
+86 -83
+#Circle
+5
+-22 77
+#Triangle
+7 15 19
+-17 65
+#Rect
+15 17
+-57 -37
+#Circle
+3
+44 86
+#Triangle
+17 12 16
+44 93
+#Rect
+15 19
+42 -75
+#Circle
+6
+24 95
+#Triangle
+15 6 11
+60 -30
+#Rect
+14 18
+85 9
+#Circle
+1
+61 28
+#Triangle
+9 8 3
+59 50
+#Rect
+3 17
+3 -51
+#Circle
+7
+10 29
+#Triangle
+12 6 10
+-32 25
+#Rect
+2 16
+19 -83
+#Circle
+10
+28 -90
+#Triangle
+18 16 10
+79 33
+#Rect
+8 13
+-64 -62
+#Circle
+3
+-45 -12
+#Triangle
+14 10 21
+76 68
+#Rect
+0 3
+75 92
+#Circle
+3
+-59 38
+#Triangle
+4 7 4
+-73 28
+#Rect
+9 18
+97 40
+#Circle
+1
+15 -62
+#Triangle
+12 10 17
+-79 -63
+#Rect
+12 20
+-41 59
+#Circle
+6
+-9 4
+#Triangle
+11 8 18
+93 -61
+#Rect
+16 19
+64 -78
+#Circle
+10
+-77 59
+#Triangle
+12 8 9
+54 46
+#Rect
+0 14
+85 -78
+#Circle
+5
+-70 52
+#Triangle
+12 18 26
+-10 78
+#Rect
+0 8
+-77 76
+#Circle
+6
+-97 80
+#Triangle
+12 18 21
+37 -14
+#Rect
+2 8
+80 -83
+#Circle
+8
+-68 -67
+#Triangle
+9 7 3
+97 68
+#Rect
+5 18
+83 -27
+#Circle
+6
+38 90
+#Triangle
+19 9 14
+93 74
+#Rect
+14 14
+45 59
+#Circle
+1
+44 -23
+#Triangle
+13 6 9
+-31 -76
+#Rect
+7 20
+-56 -43
+#Circle
+9
+-90 -76
+#Triangle
+20 8 26
+50 2
+#Rect
+3 10
+62 96
+#Circle
+9
+38 -96
+#Triangle
+20 7 17
+-72 68
+#Rect
+8 17
+10 -19
+#Circle
+5
+-95 -28
+#Triangle
+15 7 17
+-92 -46
+#Rect
+15 19
+-30 -28
+#Circle
+3
+17 -12
+#Triangle
+12 12 8
+-21 -57
+#Rect
+6 12
+82 -54
+#Circle
+6
+14 56
+#Triangle
+13 7 14
+6 -89
+#Rect
+0 4
+-42 17
+#Circle
+3
+-56 100
+#Triangle
+6 3 8
+74 50
+#Rect
+7 13
+-45 -37
+#Circle
+3
+-78 -89
+#Triangle
+20 6 15
+-94 81
+#Rect
+15 18
+75 -86
+#Circle
+9
+10 90
+#Triangle
+19 18 5
+-93 -41
+#Rect
+2 15
+-94 -52
+#Circle
+9
+51 100
+#Triangle
+12 20 25
+-45 -43
+#Rect
+9 14
+62 28
+#Circle
+3
+-52 91
+#Triangle
+18 7 23
+21 -82
+#Rect
+0 15
+62 -93
+#Circle
+10
+-76 96
+#Triangle
+8 9 16
+80 81
+#Rect
+10 10
+7 15
+#Circle
+5
+-48 91
+#Triangle
+6 6 8
+-50 60
+#Rect
+20 20
+-49 -44
+#Circle
+7
+-20 -87
+#Triangle
+10 7 11
+29 97
+#Rect
+14 17
+-51 12
+#Circle
+5
+39 66
+#Triangle
+10 7 10
+38 -71
+#Rect
+9 10
+-64 -45
+#Circle
+1
+-87 57
+#Triangle
+9 6 8
+-93 3
+#Rect
+13 19
+-13 -54
+#Circle
+6
+58 74
+#Triangle
+6 10 14
+6 69
+#Rect
+2 7
+66 -56
+#Circle
+10
+-1 64
+#Triangle
+17 9 25
+-64 -71
+#Rect
+8 17
+-96 30
+#Circle
+1
+29 14
+#Triangle
+8 6 13
+-36 31
+#Rect
+10 18
+60 -57
+#Circle
+1
+67 36
+#Triangle
+20 15 20
+-53 -46
+#Rect
+0 1
+97 44
+#Circle
+5
+-29 14
+#Triangle
+12 14 24
+-47 -80
+#Rect
+8 16
+-66 64
+#Circle
+1
+-50 68
+#Triangle
+11 14 11
+-2 -29
+#Rect
+4 10
+-58 -64
+#Circle
+1
+-33 -43
+#Triangle
+4 16 16
+-34 19
+#Rect
+1 2
+38 70
+#Circle
+0
+49 -93
+#Triangle
+15 18 32
+88 15
+#Rect
+6 8
+38 27
+#Circle
+5
+83 66
+#Triangle
+14 13 19
+-48 -72
+#Rect
+10 12
+33 17
+#Circle
+7
+-71 62
+#Triangle
+18 8 20
+86 -82
+#Rect
+6 9
+-73 -84
+#Circle
+0
+14 12
+#Triangle
+20 3 19
+42 61
+#Rect
+5 12
+70 -30
+#Circle
+10
+-35 32
+#Triangle
+16 20 23
+-56 -31
+#Rect
+1 6
+-77 -11
+#Circle
+5
+-88 -74
+#Triangle
+15 10 12
+-26 -1
+#Rect
+5 6
+-59 77
+#Circle
+7
+-87 -25
+#Triangle
+13 9 21
+-8 69
+#Rect
+1 7
+38 37
+#Circle
+3
+78 33
+#Triangle
+18 8 12
+-68 -72
+#Rect
+2 18
+32 -70
+#Circle
+0
+24 97
+#Triangle
+16 2 16
+-84 77
+#Rect
+0 6
+10 -11
+#Circle
+4
+-29 -46
+#Triangle
+5 3 7
+-23 -39
+#Rect
+11 11
+-84 82
+#Circle
+0
+80 28
+#Triangle
+4 3 5
+-8 -5
+#Rect
+5 17
+0 -27
+#Circle
+4
+-31 -12
+#Triangle
+8 10 10
+-45 -66
+#Rect
+7 14
+14 -68
+#Circle
+8
+33 -83
+#Triangle
+18 17 32
+-73 77
+#Rect
+3 10
+-15 -22
+#Circle
+2
+40 15
+#Triangle
+8 9 2
+46 71
+#Rect
+0 6
+50 27
+#Circle
+1
+-79 96
+#Triangle
+17 13 28
+-24 -5
+#Rect
+0 11
+-3 44
+#Circle
+2
+47 17
+#Triangle
+13 20 17
+-34 -20
+#Rect
+16 20
+-49 29
+#Circle
+5
+23 57
+#Triangle
+9 4 6
+-18 -55
+#Rect
+2 19
+-70 38
+#Circle
+3
+20 90
+#Triangle
+10 11 19
+28 38
+#Rect
+10 16
+-70 32
+#Circle
+4
+21 -65
+#Triangle
+2 1 2
+-6 18
+#Rect
+2 5
+38 99
+#Circle
+3
+-21 -4
+#Triangle
+12 7 12
+56 -12
+#Rect
+17 20
+60 -9
+#Circle
+7
+-36 72
+#Triangle
+14 2 14
+-14 50
+#Rect
+13 16
+-22 90
+#Circle
+4
+-28 -3
+#Triangle
+12 10 8
+38 92
+#Rect
+13 13
+52 83
+#Circle
+0
+-26 -10
+#Triangle
+2 10 10
+-55 8
+#Rect
+17 20
+20 68
+#Circle
+6
+-21 -6
+#Triangle
+7 9 13
+-81 -36
+#Rect
+2 20
+-95 -55
+#Circle
+6
+6 57
+#Triangle
+4 10 7
+-49 69
+#Rect
+19 20
+-75 97
+#Circle
+1
+77 77
+#Triangle
+13 10 16
+-22 44
+#Rect
+13 15
+40 7
+#Circle
+10
+-35 -51
+#Triangle
+17 17 23
+33 -62
+#Rect
+13 18
+-4 -38
+#Circle
+7
+-8 -6
+#Triangle
+3 11 10
+-22 -15
+#Rect
+7 19
+70 71
+#Circle
+10
+-78 56
+#Triangle
+12 18 27
+56 -99
+#Rect
+8 17
+100 60
+#Circle
+8
+15 78
+#Triangle
+8 13 18
+-49 -70
+#Rect
+6 15
+48 12
+#Circle
+4
+-80 -12
+#Triangle
+7 1 7
+12 -52
+#Rect
+13 17
+82 -86
+#Circle
+6
+-75 -12
+#Triangle
+10 16 14
+-45 43
+#Rect
+2 15
+29 -98
+#Circle
+3
+71 42
+#Triangle
+4 19 17
+-84 59
+#Rect
+11 17
+11 76
+#Circle
+3
+-88 -68
+#Triangle
+15 14 19
+32 -47
+#Rect
+3 18
+-43 -4
+#Circle
+5
+-47 46
+#Triangle
+17 15 31
+71 21
+#Rect
+2 17
+-42 -41
+#Circle
+4
+-58 56
+#Triangle
+4 16 17
+7 16
+#Rect
+4 14
+30 45
+#Circle
+3
+-23 40
+#Triangle
+15 19 10
+-73 59
+#Rect
+13 16
+-54 -27
+#Circle
+1
+-69 -12
+#Triangle
+5 20 19
+-8 74
+#Rect
+2 8
+-96 -34
+#Circle
+0
+-43 -24
+#Triangle
+17 12 7
+-62 32
+#Rect
+6 10
+-49 63
+#Circle
+8
+-91 10
+#Triangle
+13 16 20
+-40 46
+#Rect
+10 12
+80 -77
+#Circle
+7
+-20 78
+#Triangle
+4 10 13
+0 67
+#Rect
+16 16
+39 12
+#Circle
+5
+64 -85
+#Triangle
+7 10 8
+-15 -3
+#Rect
+6 8
+-97 -91
+#Circle
+8
+11 48
+#Triangle
+8 10 8
+-58 -66
+#Rect
+8 17
+55 -76
+#Circle
+8
+33 6
+#Triangle
+18 9 21
+94 39
+#Rect
+14 16
+-2 3
+#Circle
+10
+63 -42
+#Triangle
+5 18 20
+-37 87
+#Rect
+0 17
+96 -32
+#Circle
+10
+37 -14
+#Triangle
+2 4 3
+-73 -40
+#Rect
+10 13
+76 24
+#Circle
+9
+-44 47
+#Triangle
+20 19 35
+27 39
+#Rect
+7 14
+-50 74
+#Circle
+8
+-81 98
+#Triangle
+14 6 19
+-60 -71
+#Rect
+2 16
+22 45
+#Circle
+5
+-1 94
+#Triangle
+20 17 10
+-50 -31
+#Rect
+2 15
+11 37
+#Circle
+2
+-96 -83
+#Triangle
+10 18 9
+72 36
+#Rect
+10 12
+-9 22
+#Circle
+0
+-12 -26
+#Triangle
+16 13 9
+44 88
+#Rect
+5 16
+45 -77
+#Circle
+2
+-42 90
+#Triangle
+12 7 10
+-10 14
+#Rect
+2 2
+39 -51
+#Circle
+6
+-22 96
+#Triangle
+4 7 6
+32 -97
+#Rect
+5 7
+-1 -39
+#Circle
+0
+30 -49
+#Triangle
+19 14 26
+44 95
+#Rect
+1 16
+-28 19
+#Circle
+10
+-71 58
+#Triangle
+19 18 10
+-18 0
+#Rect
+3 19
+78 71
+#Circle
+1
+13 -40
+#Triangle
+9 11 18
+83 -73
+#Rect
+8 13
+-31 -91
+#Circle
+7
+-22 58
+#Triangle
+11 8 5
+80 -20
+#Rect
+11 16
+-76 -5
+#Circle
+8
+99 -88
+#Triangle
+15 13 5
+-27 46
+#Rect
+7 19
+-89 -19
+#Circle
+4
+-58 5
+#Triangle
+12 11 17
+38 -40
+#Rect
+16 20
+-54 72
+#Circle
+8
+-30 35
+#Triangle
+14 13 9
+73 5
+#Rect
+19 20
+48 80
+#Circle
+1
+62 -71
+#Triangle
+20 16 22
+-61 -40
+#Rect
+5 9
+52 18
+#Circle
+6
+-97 51
+#Triangle
+12 16 8
+-45 62
+#Rect
+4 5
+-72 -72
+#Circle
+7
+-84 -80
+#Triangle
+12 6 10
+9 -61
+#Rect
+11 15
+89 56
+#Circle
+6
+63 -76
+#Triangle
+14 10 16
+99 -10
+#Rect
+2 20
+76 -77
+#Circle
+6
+63 -1
+#Triangle
+8 12 5
+-34 -60
+#Rect
+7 10
+28 -58
+#Circle
+4
+84 -29
+#Triangle
+5 12 11
+-11 9
+#Rect
+17 19
+-58 75
+#Circle
+8
+-58 17
+#Triangle
+6 15 12
+-39 -51
+#Rect
+7 10
+-36 19
+#Circle
+5
+64 -8
+#Triangle
+3 2 3
+-67 5
+#Rect
+1 12
+-12 -13
+#Circle
+9
+23 -17
+#Triangle
+8 17 11
+99 87
+#Rect
+2 16
+-92 -59
+#Circle
+10
+-71 -56
+#Triangle
+6 15 15
+15 -19
+#Rect
+2 4
+-5 14
+#Circle
+9
+74 -48
+#Triangle
+6 18 16
+-53 -15
+#Rect
+12 19
+-78 -66
+#Circle
+0
+-43 -44
+#Triangle
+18 3 17
+-67 -38
+#Rect
+6 12
+-9 62
+#Circle
+9
+95 -85
+#Triangle
+15 19 29
+-53 -95
+#Rect
+2 10
+-6 -55
+#Circle
+9
+31 -2
+#Triangle
+20 18 17
+-92 71
+#Rect
+4 10
+98 23
+#Circle
+4
+54 25
+#Triangle
+9 8 13
+-12 94
+#Rect
+0 13
+73 52
+#Circle
+8
+-9 -51
+#Triangle
+7 3 8
+58 43
+#Rect
+6 19
+-20 13
+#Circle
+8
+91 2
+#Triangle
+9 14 14
+-8 -53
+#Rect
+5 7
+-83 85
+#Circle
+9
+16 23
+#Triangle
+13 15 20
+-73 0
+#Rect
+8 17
+-28 14
+#Circle
+2
+86 65
+#Triangle
+11 13 14
+22 42
+#Rect
+2 14
+16 87
+#Circle
+8
+-62 28
+#Triangle
+5 3 4
+4 -83
+#Rect
+3 3
+-83 -66
+#Circle
+2
+-63 88
+#Triangle
+19 9 13
+-19 59
+#Rect
+0 11
+90 82
+#Circle
+4
+99 72
+#Triangle
+18 6 22
+1 -1
+#Rect
+0 9
+-56 86
+#Circle
+5
+-27 94
+#Triangle
+15 15 24
+4 76
+#Rect
+6 15
+77 23
+#Circle
+10
+21 90
+#Triangle
+11 7 5
+40 68
+#Rect
+1 6
+-18 -46
+#Circle
+2
+46 64
+#Triangle
+10 17 18
+-73 94
+#Rect
+7 9
+37 69
+#Circle
+8
+47 78
+#Triangle
+20 3 19
+98 -69
+#Rect
+12 20
+-87 -67
+#Circle
+6
+43 -31
+#Triangle
+13 15 20
+39 13
+#Rect
+4 16
+4 70
+#Circle
+2
+26 -9
+#Triangle
+10 14 12
+0 -69
+#Rect
+18 18
+-64 0
+#Circle
+7
+-34 16
+#Triangle
+4 3 6
+-42 -57
+#Rect
+3 11
+27 0
+#Circle
+4
+84 71
+#Triangle
+18 3 17
+22 -4
+#Rect
+3 16
+72 -52
+#Circle
+0
+-93 -19
+#Triangle
+8 13 16
+-48 -5
+#Rect
+10 15
+35 -71
+#Circle
+10
+-34 73
+#Triangle
+15 20 32
+77 -22
+#Rect
+14 15
+-85 94
+#Circle
+10
+65 -91
+#Triangle
+11 12 19
+27 -90
+#Rect
+6 11
+97 20
+#Circle
+0
+52 -7
+#Triangle
+10 7 8
+-57 -85
+#Rect
+10 17
+-57 -58
+#Circle
+6
+62 -32
+#Triangle
+3 4 4
+-2 -5
+#Rect
+6 19
+-87 89
+#Circle
+6
+-78 -47
+#Triangle
+19 9 24
+-65 60
+#Rect
+0 0
+68 57
+#Circle
+0
+-47 43
+#Triangle
+4 13 13
+-56 -14
+#Rect
+1 2
+-54 -96
+#Circle
+6
+-7 -91
+#Triangle
+8 14 9
+0 85
+#Rect
+13 18
+-28 -72
+#Circle
+3
+17 63
+#Triangle
+18 9 23
+17 -45
+#Rect
+6 11
+-26 25
+#Circle
+4
+77 35
+#Triangle
+19 14 29
+-100 11
+#Rect
+7 20
+87 72
+#Circle
+1
+-2 68
+#Triangle
+20 13 17
+-51 19
+#Rect
+0 10
+-47 -24
+#Circle
+1
+65 -10
+#Triangle
+10 11 19
+43 -5
+#Rect
+15 18
+-64 -90
+#Circle
+2
+-32 13
+#Triangle
+13 15 13
+12 45
+#Rect
+4 5
+58 62
+#Circle
+0
+-100 50
+#Triangle
+6 3 8
+-36 70
+#Rect
+3 19
+32 -29
+#Circle
+4
+35 -88
+#Triangle
+20 9 26
+-75 40
+#Rect
+2 9
+-58 -58
+#Circle
+8
+39 80
+#Triangle
+12 8 11
+85 -86
+#Rect
+9 20
+7 82
+#Circle
+6
+14 45
+#Triangle
+5 5 4
+0 86
+#Rect
+4 8
+87 54
+#Circle
+6
+3 21
+#Triangle
+10 11 3
+-30 41
+#Rect
+12 15
+83 94
+#Circle
+10
+-88 -56
+#Triangle
+16 18 10
+-7 -4
+#Rect
+3 19
+-56 39
+#Circle
+7
+-22 29
+#Triangle
+11 9 13
+-50 -95
+#Rect
+1 5
+72 -49
+#Circle
+7
+38 -22
+#Triangle
+13 20 31
+87 80
+#Rect
+8 12
+10 -34
+#Circle
+5
+-47 -21
+#Triangle
+19 2 19
+-56 -84
+#Rect
+10 16
+3 99
+#Circle
+2
+-84 -36
+#Triangle
+16 12 24
+73 17
+#Rect
+4 15
+14 28
+#Circle
+8
+36 -47
+#Triangle
+16 19 21
+-8 -50
+#Rect
+11 13
+-20 79
+#Circle
+2
+-26 -54
+#Triangle
+12 7 11
+-69 99
+#Rect
+10 15
+28 -8
+#Circle
+5
+-48 -20
+#Triangle
+12 19 27
+61 87
+#Rect
+9 20
+-92 66
+#Circle
+5
+-40 8
+#Triangle
+6 3 6
+46 70
+#Rect
+2 6
+-36 -48
+#Circle
+4
+-16 -38
+#Triangle
+6 5 10
+-55 1
+#Rect
+11 19
+90 -26
+#Circle
+2
+-21 -69
+#Triangle
+2 2 2
+37 27
+#Rect
+1 12
+-83 7
+#Circle
+0
+34 99
+#Triangle
+13 4 10
+-29 40
+#Rect
+8 20
+78 -16
+#Circle
+5
+100 62
+#Triangle
+16 8 13
+-89 44
+#Rect
+9 13
+-67 -10
+#Circle
+3
+28 -56
+#Triangle
+13 17 6
+81 47
+#Rect
+16 18
+56 14
+#Circle
+0
+6 -17
+#Triangle
+9 20 28
+58 81
+#Rect
+6 9
+58 -37
+#Circle
+4
+-74 61
+#Triangle
+7 14 16
+-88 54
+#Rect
+8 16
+19 -64
+#Circle
+5
+-54 41
+#Triangle
+14 20 18
+42 17
+#Rect
+10 19
+15 76
+#Circle
+4
+-44 57
+#Triangle
+8 8 8
+8 37
+#Rect
+6 18
+45 14
+#Circle
+4
+-86 25
+#Triangle
+7 20 15
+90 17
+#Rect
+19 20
+36 -41
+#Circle
+7
+-78 99
+#Triangle
+15 20 34
+53 73
+#Rect
+13 15
+86 -43
+#Circle
+0
+-28 -45
+#Triangle
+4 16 16
+-74 -93
+#Rect
+4 20
+-28 84
+#Circle
+6
+59 35
+#Triangle
+19 18 25
+40 -6
+#Rect
+12 14
+-90 14
+#Circle
+3
+49 80
+#Triangle
+4 6 6
+-83 -64
+#Rect
+3 20
+9 72
+#Circle
+10
+95 -35
+#Triangle
+16 11 8
+-60 1
+#Rect
+13 14
+57 92
+#Circle
+1
+50 -93
+#Triangle
+2 4 4
+-1 25
+#Rect
+18 18
+-73 -25
+#Circle
+4
+-8 -89
+#Triangle
+12 17 25
+18 93
+#Rect
+12 14
+96 -37
+#Circle
+2
+5 -90
+#Triangle
+14 18 20
+18 -12
+#Rect
+1 18
+16 57
+#Circle
+7
+48 21
+#Triangle
+5 5 4
+47 43
+#Rect
+11 18
+78 31
+#Circle
+4
+28 37
+#Triangle
+20 9 12
+60 -30
+#Rect
+8 11
+-10 91
+#Circle
+7
+-92 24
+#Triangle
+20 15 23
+-7 -62
+#Rect
+12 19
+97 -10
+#Circle
+10
+39 12
+#Triangle
+8 6 13
+-38 16
+#Rect
+7 14
+47 84
+#Circle
+3
+88 52
+#Triangle
+1 6 6
+-86 71
+#Rect
+0 7
+-8 -11
+#Circle
+9
+-4 83
+#Triangle
+20 20 7
+-87 11
+#Rect
+12 16
+26 -63
+#Circle
+1
+20 -58
+#Triangle
+17 9 16
+48 -100
+#Rect
+4 8
+46 -31
+#Circle
+4
+-65 -16
+#Triangle
+7 14 13
+81 67
+#Rect
+0 1
+-78 48
+#Circle
+8
+-5 20
+#Triangle
+5 15 18
+-38 40
+#Rect
+14 15
+33 35
+#Circle
+1
+100 -52
+#Triangle
+6 13 16
+-23 -44
+#Rect
+3 20
+-75 82
+#Circle
+2
+-83 9
+#Triangle
+11 17 27
+46 63
+#Rect
+5 9
+60 48
+#Circle
+8
+-96 -71
+#Triangle
+7 6 9
+-90 -27
+#Rect
+15 16
+69 68
+#Circle
+2
+17 11
+#Triangle
+20 13 17
+22 61
+#Rect
+0 3
+-93 -67
+#Circle
+5
+62 52
+#Triangle
+16 17 30
+58 -71
+#Rect
+10 18
+-46 -35
+#Circle
+8
+-80 97
+#Triangle
+12 2 11
+-58 39
+#Rect
+12 19
+57 30
+#Circle
+0
+12 -8
+#Triangle
+16 7 10
+81 53
+#Rect
+15 15
+-48 72
+#Circle
+2
+99 -25
+#Triangle
+6 3 5
+81 -46
+#Rect
+3 5
+34 -16
+#Circle
+7
+5 55
+#Triangle
+12 12 6
+86 -50
+#Rect
+7 14
+90 10
+#Circle
+1
+79 -48
+#Triangle
+14 15 28
+96 -34
+#Rect
+17 20
+100 -24
+#Circle
+8
+81 -50
+#Triangle
+6 4 3
+-77 -22
+#Rect
+2 16
+-96 76
+#Circle
+10
+85 -1
+#Triangle
+8 13 7
+-63 65
+#Rect
+4 19
+-33 22
+#Circle
+0
+70 27
+#Triangle
+17 17 20
+58 48
+#Rect
+7 11
+-100 -11
+#Circle
+5
+-64 -11
+#Triangle
+13 11 19
+-81 -54
+#Rect
+11 16
+77 58
+#Circle
+0
+-18 -30
+#Triangle
+8 6 13
+-68 -75
+#Rect
+1 1
+-47 18
+#Circle
+3
+100 -33
+#Triangle
+17 17 29
+-80 -12
+#Rect
+4 5
+-19 68
+#Circle
+7
+34 -44
+#Triangle
+9 7 5
+-73 -85
+#Rect
+10 16
+-65 -59
+#Circle
+9
+-29 30
+#Triangle
+19 17 22
+-99 -11
+#Rect
+7 20
+-92 -68
+#Circle
+5
+11 -81
+#Triangle
+4 8 6
+-86 -68
+#Rect
+0 7
+-87 -8
+#Circle
+3
+97 -59
+#Triangle
+15 20 27
+-93 -14
+#Rect
+2 11
+33 -95
+#Circle
+0
+86 -86
+#Triangle
+13 9 18
+-94 -23
+#Rect
+5 16
+87 -62
+#Circle
+2
+-72 -43
+#Triangle
+6 4 4
+-13 54
+#Rect
+0 19
+80 81
+#Circle
+7
+72 84
+#Triangle
+14 15 20
+-100 -46
+#Rect
+7 15
+-84 100
+#Circle
+3
+-83 -16
+#Triangle
+11 13 12
+-98 -44
+#Rect
+1 16
+-46 -56
+#Circle
+9
+-23 -70
+#Triangle
+20 10 12
+84 97
+#Rect
+0 2
+78 -70
+#Circle
+2
+30 54
+#Triangle
+20 7 18
+16 -65
+#Rect
+6 10
+-60 -74
+#Circle
+1
+-17 -11
+#Triangle
+14 12 6
+-98 98
+#Rect
+1 20
+9 26
+#Circle
+7
+-57 -40
+#Triangle
+3 8 8
+49 45
+#Rect
+2 11
+67 79
+#Circle
+5
+-11 4
+#Triangle
+13 13 3
+-99 33
+#Rect
+14 14
+86 9
+#Circle
+0
+-96 17
+#Triangle
+9 11 9
+63 45
+#Rect
+4 10
+-69 -73
+#Circle
+5
+51 25
+#Triangle
+15 8 10
+4 -20
+#Rect
+3 18
+5 38
+#Circle
+8
+52 -27
+#Triangle
+6 18 23
+-100 26
+#Rect
+1 12
+-54 90
+#Circle
+7
+-9 -42
+#Triangle
+15 8 9
+50 24
+#Rect
+15 16
+51 -33
+#Circle
+5
+61 57
+#Triangle
+10 10 7
+-33 -8
+#Rect
+6 12
+42 84
+#Circle
+0
+-58 26
+#Triangle
+14 10 18
+22 -69
+#Rect
+10 19
+-64 -73
+#Circle
+7
+19 52
+#Triangle
+2 14 15
+75 8
+#Rect
+12 17
+75 -1
+#Circle
+6
+100 -5
+#Triangle
+7 13 15
+74 -64
+#Rect
+10 10
+-12 64
+#Circle
+2
+-15 37
+#Triangle
+17 11 11
+0 -43
+#Rect
+5 7
+-36 -88
+#Circle
+7
+-11 -9
+#Triangle
+2 2 2
+-42 -77
+#Rect
+1 20
+-25 -10
+#Circle
+9
+-35 -87
+#Triangle
+8 11 10
+-91 88
+#Rect
+1 6
+83 -84
+#Circle
+6
+-51 28
+#Triangle
+8 17 11
+-63 60
+#Rect
+10 14
+72 87
+#Circle
+8
+61 -50
+#Triangle
+10 11 16
+-8 -28
+#Rect
+4 5
+3 -2
+#Circle
+7
+5 -72
+#Triangle
+14 6 9
+-49 -5
+#Rect
+4 19
+79 47
+#Circle
+2
+19 57
+#Triangle
+14 11 16
+-71 -84
+#Rect
+7 9
+-71 63
+#Circle
+9
+-66 -50
+#Triangle
+16 16 27
+-43 -35
+#Rect
+9 18
+-18 30
+#Circle
+7
+-100 -12
+#Triangle
+18 14 23
+73 7
+#Rect
+13 14
+92 3
+#Circle
+0
+19 -94
+#Triangle
+19 17 18
+-6 11
+#Rect
+5 11
+-51 -26
+#Circle
+2
+0 -82
+#Triangle
+18 20 23
+92 -28
+#Rect
+5 9
+-31 -82
+#Circle
+9
+39 -49
+#Triangle
+20 8 15
+64 -76
+#Rect
+6 8
+-6 72
+#Circle
+3
+-85 31
+#Triangle
+4 9 6
+-30 -13
+#Rect
+2 19
+55 81
+#Circle
+3
+-14 61
+#Triangle
+20 13 15
+68 88
+#Rect
+0 20
+88 53
+#Circle
+10
+38 90
+#Triangle
+8 6 7
+52 44
+#Rect
+7 10
+96 6
+#Circle
+4
+-19 -54
+#Triangle
+7 13 7
+26 -61
+#Rect
+5 11
+68 87
+#Circle
+3
+76 -77
+#Triangle
+8 8 15
+-60 -72
+#Rect
+11 14
+-61 -21
+#Circle
+7
+-84 -92
+#Triangle
+8 9 14
+78 -12
+#Rect
+3 8
+-59 -26
+#Circle
+8
+-45 49
+#Triangle
+6 18 19
+-21 73
+#Rect
+7 12
+79 -88
+#Circle
+5
+17 75
+#Triangle
+15 19 12
+-60 -11
+#Rect
+6 19
+-76 34
+#Circle
+3
+-99 0
+#Triangle
+19 11 25
+-90 -2
+#Rect
+10 16
+-34 35
+#Circle
+2
+5 -42
+#Triangle
+16 16 20
+18 93
+#Rect
+3 11
+-24 3
+#Circle
+1
+-55 85
+#Triangle
+4 11 8
+82 -26
+#Rect
+0 13
+-22 13
+#Circle
+5
+17 75
+#Triangle
+10 12 3
+-62 -95
+#Rect
+4 6
+-20 26
+#Circle
+3
+-6 -24
+#Triangle
+11 13 13
+94 75
+#Rect
+3 12
+-11 91
+#Circle
+5
+-63 -52
+#Triangle
+10 7 9
+64 -26
+#Rect
+2 9
+92 -62
+#Circle
+6
+43 16
+#Triangle
+12 3 10
+70 72
+#Rect
+4 13
+-31 10
+#Circle
+8
+-28 84
+#Triangle
+9 13 16
+-68 9
+#Rect
+4 12
+35 8
+#Circle
+8
+93 10
+#Triangle
+16 17 5
+-38 40
+#Rect
+1 5
+35 -90
+#Circle
+4
+-72 -85
+#Triangle
+18 11 23
+48 -34
+#Rect
+0 4
+37 -62
+#Circle
+7
+50 74
+#Triangle
+13 20 22
+-11 -60
+#Rect
+5 12
+48 -55
+#Circle
+3
+5 68
+#Triangle
+17 7 23
+43 -92
+#Rect
+7 10
+47 50
+#Circle
+9
+48 -42
+#Triangle
+11 19 28
+-89 84
+#Rect
+6 11
+51 22
+#Circle
+6
+-75 -22
+#Triangle
+12 18 11
+63 60
+#Rect
+3 20
+57 -21
+#Circle
+0
+36 46
+#Triangle
+8 11 8
+71 -42
+#Rect
+2 13
+-85 9
+#Circle
+3
+-58 -26
+#Triangle
+16 16 29
+7 66
+#Rect
+0 12
+0 40
+#Circle
+7
+44 -33
+#Triangle
+12 16 16
+80 -88
+#Rect
+7 11
+93 -77
+#Circle
+10
+-4 -81
+#Triangle
+2 8 9
+-84 92
+#Rect
+8 13
+99 -15
+#Circle
+3
+-10 86
+#Triangle
+1 1 1
+-93 23
+#Rect
+0 13
+-21 -13
+#Circle
+1
+-14 17
+#Triangle
+12 20 10
+18 -66
+#Rect
+2 18
+-80 22
+#Circle
+0
+60 -64
+#Triangle
+20 16 5
+-4 -85
+#Rect
+5 14
+-88 65
+#Circle
+7
+-56 52
+#Triangle
+3 14 15
+-88 -88
+#Rect
+9 15
+100 69
+#Circle
+10
+-66 -56
+#Triangle
+3 5 5
+-33 10
+#Rect
+7 16
+96 29
+#Circle
+6
+-89 -90
+#Triangle
+8 17 12
+-37 48
+#Rect
+12 13
+-58 -45
+#Circle
+2
+75 48
+#Triangle
+4 13 13
+-32 -86
+#Rect
+13 16
+46 -49
+#Circle
+0
+3 -74
+#Triangle
+13 9 17
+-55 -83
+#Rect
+2 6
+-20 46
+#Circle
+6
+31 24
+#Triangle
+15 15 28
+59 11
+#Rect
+9 9
+37 50
+#Circle
+8
+53 23
+#Triangle
+9 4 11
+81 -36
+#Rect
+10 20
+78 -38
+#Circle
+9
+97 -62
+#Triangle
+7 9 11
+20 84
+#Rect
+11 18
+-93 -72
+#Circle
+6
+18 87
+#Triangle
+5 3 4
+50 85
+#Rect
+6 20
+-38 -26
+#Circle
+4
+48 -31
+#Triangle
+5 14 17
+-44 42
+#Rect
+3 18
+39 -61
+#Circle
+9
+-99 -8
+#Triangle
+9 9 13
+-19 29
+#Rect
+8 10
+51 30
+#Circle
+5
+-73 99
+#Triangle
+13 7 9
+-66 59
+#Rect
+16 16
+-18 6
+#Circle
+6
+-31 29
+#Triangle
+11 18 10
+-11 15
+#Rect
+2 19
+11 -39
+#Circle
+7
+-68 54
+#Triangle
+16 19 22
+-36 -64
+#Rect
+5 9
+-69 21
+#Circle
+5
+46 -2
+#Triangle
+20 7 20
+61 68
+#Rect
+6 20
+-57 1
+#Circle
+8
+-68 -98
+#Triangle
+18 19 27
+87 100
+#Rect
+3 15
+77 68
+#Circle
+10
+-100 -90
+#Triangle
+5 19 17
+-58 -76
+#Rect
+8 13
+-20 -93
+#Circle
+9
+92 -29
+#Triangle
+7 12 8
+-60 -72
+#Rect
+5 15
+-54 35
+#Circle
+6
+83 -30
+#Triangle
+11 17 18
+-71 -51
+#Rect
+1 17
+-47 -41
+#Circle
+1
+74 74
+#Triangle
+15 18 16
+67 96
+#Rect
+5 17
+17 84
+#Circle
+2
+-31 74
+#Triangle
+17 9 23
+78 70
+#Rect
+4 15
+-66 22
+#Circle
+4
+-42 7
+#Triangle
+12 9 19
+-18 -18
+#Rect
+3 14
+82 56
+#Circle
+8
+36 -77
+#Triangle
+3 19 19
+27 98
+#Rect
+5 15
+44 -35
+#Circle
+6
+35 21
+#Triangle
+15 19 27
+30 -77
+#Rect
+8 17
+-44 50
+#Circle
+1
+-13 -89
+#Triangle
+7 5 10
+-38 93
+#Rect
+12 13
+-25 -100
+#Circle
+7
+-95 72
+#Triangle
+9 12 7
+87 100
+#Rect
+0 0
+83 4
+#Circle
+0
+-3 58
+#Triangle
+8 9 13
+61 67
+#Rect
+8 18
+89 -88
+#Circle
+7
+-9 88
+#Triangle
+5 20 18
+-82 83
+#Rect
+0 16
+-29 -94
+#Circle
+9
+-32 72
+#Triangle
+19 20 20
+21 37
+#Rect
+4 7
+-73 -8
+#Circle
+1
+-14 -67
+#Triangle
+5 6 8
+16 -58
+#Rect
+1 3
+-95 -42
+#Circle
+10
+-3 -59
+#Triangle
+13 19 31
+24 80
+#Rect
+15 15
+9 4
+#Circle
+10
+-92 98
+#Triangle
+12 4 15
+73 -44
+#Rect
+1 15
+-45 -87
+#Circle
+7
+-1 76
+#Triangle
+5 8 8
+-20 -95
+#Rect
+1 8
+-51 -50
+#Circle
+8
+-51 -98
+#Triangle
+15 17 30
+8 37
+#Rect
+2 6
+20 -85
+#Circle
+4
+-11 71
+#Triangle
+19 16 29
+25 -43
+#Rect
+3 5
+-80 75
+#Circle
+6
+48 -45
+#Triangle
+13 7 7
+-4 -32
+#Rect
+14 17
+-72 -90
+#Circle
+9
+28 -33
+#Triangle
+18 12 27
+-22 -3
+#Rect
+6 15
+-20 70
+#Circle
+6
+-20 -37
+#Triangle
+9 18 19
+50 -82
+#Rect
+1 5
+19 -49
+#Circle
+9
+79 -21
+#Triangle
+10 6 6
+60 15
+#Rect
+2 4
+9 47
+#Circle
+10
+4 -74
+#Triangle
+3 6 5
+17 4
+#Rect
+10 12
+-50 21
+#Circle
+8
+89 -51
+#Triangle
+10 14 15
+-39 -53
+#Rect
+2 18
+-99 -72
+#Circle
+9
+33 -78
+#Triangle
+11 4 13
+31 -96
+#Rect
+1 2
+44 -83
+#Circle
+10
+62 12
+#Triangle
+10 16 21
+-39 -44
+#Rect
+4 5
+75 25
+#Circle
+7
+-78 -86
+#Triangle
+17 12 26
+-57 -33
